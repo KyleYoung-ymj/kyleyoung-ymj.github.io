@@ -36,7 +36,10 @@
   "volunteer": [
     {
       "organization": "People's Climate March",
+<<<<<<< HEAD
       "location": "Zurich, Switzerland",
+=======
+>>>>>>> b0b77b84 (Initial commit)
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",

@@ -1,22 +1,42 @@
 {% if page.chart and page.chart.echarts %}
   <script
+<<<<<<< HEAD
     src="{{ site.third_party_libraries.echarts.url.js.library }}"
     integrity="{{ site.third_party_libraries.echarts.integrity.js.library }}"
+=======
+    defer
+    src="https://cdn.jsdelivr.net/npm/echarts@{{ site.echarts.version }}/dist/echarts.min.js"
+    integrity="{{ site.echarts.integrity.library }}"
+>>>>>>> b0b77b84 (Initial commit)
     crossorigin="anonymous"
   ></script>
   {% if site.enable_darkmode %}
     <script
+<<<<<<< HEAD
       src="{{ site.third_party_libraries.echarts.url.js.dark_theme }}"
       integrity="{{ site.third_party_libraries.echarts.integrity.js.dark_theme }}"
+=======
+      defer
+      src="https://cdn.jsdelivr.net/npm/echarts@{{ site.echarts.version }}/theme/dark-fresh-cut.js"
+      integrity="{{ site.echarts.integrity.dark_theme }}"
+>>>>>>> b0b77b84 (Initial commit)
       crossorigin="anonymous"
     ></script>
   {% endif %}
   <script>
+<<<<<<< HEAD
     let echartsTheme = determineComputedTheme();
 
     /* Create echarts chart as another node and hide the code block, appending the echarts node after it
        this is done to enable retrieving the code again when changing theme between light/dark */
     document.addEventListener('readystatechange', () => {
+=======
+    let theme = localStorage.getItem('theme');
+
+    /* Create echarts chart as another node and hide the code block, appending the echarts node after it
+       this is done to enable retrieving the code again when changing theme between light/dark */
+    document.onreadystatechange = () => {
+>>>>>>> b0b77b84 (Initial commit)
       if (document.readyState === 'complete') {
         document.querySelectorAll('pre>code.language-echarts').forEach((elem) => {
           const jsonData = elem.textContent;
@@ -28,7 +48,11 @@
           backup.after(chartElement);
 
           /* create echarts */
+<<<<<<< HEAD
           if (echartsTheme === 'dark') {
+=======
+          if (theme === 'dark') {
+>>>>>>> b0b77b84 (Initial commit)
             var chart = echarts.init(chartElement, 'dark-fresh-cut');
           } else {
             var chart = echarts.init(chartElement);
@@ -40,6 +64,10 @@
           });
         });
       }
+<<<<<<< HEAD
     });
+=======
+    };
+>>>>>>> b0b77b84 (Initial commit)
   </script>
 {% endif %}

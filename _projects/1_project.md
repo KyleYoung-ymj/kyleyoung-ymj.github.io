@@ -1,7 +1,11 @@
 ---
 layout: page
 title: project 1
+<<<<<<< HEAD
 description: with background image
+=======
+description: a project with a background image
+>>>>>>> b0b77b84 (Initial commit)
 img: assets/img/12.jpg
 importance: 1
 category: work

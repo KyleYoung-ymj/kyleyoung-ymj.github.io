@@ -1,24 +1,42 @@
 {% if page.mermaid and page.mermaid.enabled %}
   <script
     defer
+<<<<<<< HEAD
     src="{{ site.third_party_libraries.mermaid.url.js }}"
     integrity="{{ site.third_party_libraries.mermaid.integrity.js }}"
+=======
+    src="https://cdn.jsdelivr.net/npm/mermaid@{{ site.mermaid.version }}/dist/mermaid.min.js"
+    integrity="{{ site.mermaid.integrity }}"
+>>>>>>> b0b77b84 (Initial commit)
     crossorigin="anonymous"
   ></script>
   {% if page.mermaid.zoomable %}
     <script
       defer
+<<<<<<< HEAD
       src="{{ site.third_party_libraries.d3.url.js }}"
       integrity="{{ site.third_party_libraries.d3.integrity.js }}"
+=======
+      src="https://cdn.jsdelivr.net/npm/d3@{{ site.d3.version }}/dist/d3.min.js"
+      integrity="{{ site.d3.integrity }}"
+>>>>>>> b0b77b84 (Initial commit)
       crossorigin="anonymous"
     ></script>
   {% endif %}
   <script>
+<<<<<<< HEAD
     let mermaidTheme = determineComputedTheme();
 
     /* Create mermaid diagram as another node and hide the code block, appending the mermaid node after it
        this is done to enable retrieving the code again when changing theme between light/dark */
     document.addEventListener('readystatechange', () => {
+=======
+    let theme = localStorage.getItem('theme');
+
+    /* Create mermaid diagram as another node and hide the code block, appending the mermaid node after it
+       this is done to enable retrieving the code again when changing theme between light/dark */
+    document.onreadystatechange = () => {
+>>>>>>> b0b77b84 (Initial commit)
       if (document.readyState === 'complete') {
         document.querySelectorAll('pre>code.language-mermaid').forEach((elem) => {
           const svgCode = elem.textContent;
@@ -32,7 +50,11 @@
           backup.after(mermaid);
         });
 
+<<<<<<< HEAD
         mermaid.initialize({ theme: mermaidTheme });
+=======
+        mermaid.initialize({ theme: theme });
+>>>>>>> b0b77b84 (Initial commit)
 
         /* Zoomable mermaid diagrams */
         if (typeof d3 !== 'undefined') {
@@ -50,6 +72,10 @@
           });
         }
       }
+<<<<<<< HEAD
     });
+=======
+    };
+>>>>>>> b0b77b84 (Initial commit)
   </script>
 {% endif %}

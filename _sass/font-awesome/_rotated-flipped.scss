@@ -27,5 +27,9 @@
 }
 
 .#{$fa-css-prefix}-rotate-by {
+<<<<<<< HEAD
   transform: rotate(var(--#{$fa-css-prefix}-rotate-angle, 0));
+=======
+  transform: rotate(var(--#{$fa-css-prefix}-rotate-angle, none));
+>>>>>>> b0b77b84 (Initial commit)
 }
