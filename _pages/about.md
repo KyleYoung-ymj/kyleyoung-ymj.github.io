@@ -1,12 +1,16 @@
 ---
 layout: about
-title: About
+title: Homepage
+# subtitle: 
 permalink: /
 
 profile:
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    Renmin University of China, Beijing, China
+    kyleyoung AT ruc.edu.cn
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,3 +23,4 @@ I am currently a 2nd-year Ph.D. candidate at [Gaoling School of Artificial Intel
 My research interests include theoretical computer science, graph algorithms, and sublinear algorithms.
 
 **Note**: this website is still under construction.
+
