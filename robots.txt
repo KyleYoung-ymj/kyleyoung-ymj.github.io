@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kyleyoung-ymj.github.io/sitemap.xml
+Sitemap: https://kyleyoung-ymj.github.io//sitemap.xml
