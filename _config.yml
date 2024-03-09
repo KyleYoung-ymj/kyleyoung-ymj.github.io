@@ -292,9 +292,9 @@ scholar:
   bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # preprocessing may conflict with MathJax if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters:
+  bibtex_filters: 
 
   replace_strings: true
   join_strings: true
@@ -306,7 +306,7 @@ scholar:
   group_by: year
   group_order: descending
 
-# Display different badges withs stats for your publications
+# Display different badges with stats for your publications
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
