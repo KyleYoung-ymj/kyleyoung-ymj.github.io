@@ -1,30 +1,16 @@
 $(document).ready(function () {
-<<<<<<< HEAD
   // add toggle functionality to abstract, award and bibtex buttons
   $("a.abstract").click(function () {
     $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
   });
   $("a.award").click(function () {
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".award.hidden").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
-  });
-  $("a.bibtex").click(function () {
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
-=======
-  // add toggle functionality to abstract and bibtex buttons
-  $("a.abstract").click(function () {
-    $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
   });
   $("a.bibtex").click(function () {
     $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
->>>>>>> b0b77b84 (Initial commit)
+  });
+  $("a.tldr").click(function () {
+    $(this).parent().parent().find(".tldr.hidden").toggleClass("open");
   });
   $("a").removeClass("waves-effect waves-light");
 
@@ -48,26 +34,12 @@ $(document).ready(function () {
   cssLink.rel = "stylesheet";
   cssLink.type = "text/css";
 
-<<<<<<< HEAD
   let jupyterTheme = determineComputedTheme();
-=======
-  let theme = localStorage.getItem("theme");
-  if (theme == null || theme == "null") {
-    const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      theme = "dark";
-    }
-  }
->>>>>>> b0b77b84 (Initial commit)
 
   $(".jupyter-notebook-iframe-container iframe").each(function () {
     $(this).contents().find("head").append(cssLink);
 
-<<<<<<< HEAD
     if (jupyterTheme == "dark") {
-=======
-    if (theme == "dark") {
->>>>>>> b0b77b84 (Initial commit)
       $(this).bind("load", function () {
         $(this).contents().find("body").attr({
           "data-jp-theme-light": "false",
@@ -76,12 +48,9 @@ $(document).ready(function () {
       });
     }
   });
-<<<<<<< HEAD
 
   // trigger popovers
   $('[data-toggle="popover"]').popover({
     trigger: "hover",
   });
-=======
->>>>>>> b0b77b84 (Initial commit)
 });

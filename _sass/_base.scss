@@ -808,6 +808,7 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          text-transform: none;
 
           &:hover {
             color: var(--global-theme-color);
@@ -876,6 +877,15 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+
+      div.tldr.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+      
+      div.tldr.hidden.open {
+        border-color: var(--global-text-color);
+      }
+
     }
 <<<<<<< HEAD
     div.award.hidden {
