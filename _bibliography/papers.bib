@@ -1,4 +1,5 @@
 @article{TKDE2024,
+  selected = true,
   author = {Mingji Yang and
             Hanzhi Wang and
             Zhewei Wei* and
@@ -6,40 +7,48 @@
             Ji-Rong Wen},
   title = {Efficient Algorithms for Personalized PageRank Computation: A Survey},
   journal = {IEEE Transactions on Knowledge and Data Engineering, to appear},
-  selected = true,
   year = {2024},
-  abbr = {TKDE 2024}
+  abbr = {TKDE 2024},
+  arxiv = {2403.05198},
+  tldr = {This survey paper provides a systematic review of several basic techniques and recent algorithms for PPR computation.},
+  abstract =
+  {
+    Personalized PageRank (PPR) is a traditional measure for node proximity on large graphs. For a pair of nodes \(s\) and \(t\), the PPR value \(\pi_s(t)\) equals the probability that an \(\alpha\)-discounted random walk from \(s\) terminates at \(t\) and reflects the importance between \(s\) and \(t\) in a bidirectional way. As a generalization of Google's celebrated PageRank centrality, PPR has been extensively studied and has found multifaceted applications in many fields, such as network analysis, graph mining, and graph machine learning. Despite numerous studies devoted to PPR over the decades, efficient computation of PPR remains a challenging problem, and there is a dearth of systematic summaries and comparisons of existing algorithms. In this paper, we recap several frequently used techniques for PPR computation and conduct a comprehensive survey of various recent PPR algorithms from an algorithmic perspective. We classify these approaches based on the types of queries they address and review their methodologies and contributions. We also discuss some representative algorithms for computing PPR on dynamic graphs and in parallel or distributed environments.
+  }
 }
 
 @inproceedings{STOC2024,
+  selected = true,
   author = {Hanzhi Wang and
             Zhewei Wei and
             Ji-Rong Wen and
             Mingji Yang},
   title = {Revisiting Local Computation of PageRank: Simple and Optimal †},
   booktitle = {Proceedings of the 56th Annual ACM Symposium on Theory of Computing, to appear},
-  selected = true,
   month = {June},
   year = {2024},
   abbr = {STOC 2024}
 }
 
 @inproceedings{ICDT2024,
+  selected = true,
   author = {Zhewei Wei and
             Ji-Rong Wen and
             Mingji Yang},
   title = {Approximating Single-Source Personalized PageRank with Absolute Error
            Guarantees †},
   booktitle = {Proceedings of the 27th International Conference on Database Theory, to appear},
-  arxiv = {2401.01019},
-  selected = true,
   month = {March},
   year = {2024},
   abbr = {ICDT 2024},
+  arxiv = {2401.01019},
   tldr = {This paper proposes new algorithms to improve the upper bounds for approximating Single-Source Personalized PageRank with (degree-normalized) absolute error guarantees on various graphs.},
-  abstract = {Personalized PageRank (PPR) is an extensively studied and applied node proximity measure in graphs. For a pair of nodes \(s\) and \(t\) on a graph \(G=(V,E)\), the PPR value \(\pi(s,t)\) is defined as the probability that an \(\alpha\)-discounted random walk from \(s\) terminates at \(t\), where the walk terminates with probability \(\alpha\) at each step. We study the classic Single-Source PPR query, which asks for PPR approximations from a given source node \(s\) to all nodes in the graph. Specifically, we aim to provide approximations with absolute error guarantees, ensuring that the resultant PPR estimates \(\hat{\pi}(s,t)\) satisfy \(\max_{t\in V}\big|\hat{\pi}(s,t)-\pi(s,t)\big|\le\varepsilon\) for a given error bound \(\varepsilon\). We propose an algorithm that achieves this with high probability, with an expected running time of<br>
-  - \(\widetilde{O}\big(\sqrt{m}/\varepsilon\big)\) for directed graphs, where \(m=|E|\);<br>
-  - \(\widetilde{O}\big(\sqrt{d_{\mathrm{max}}}/\varepsilon\big)\) for undirected graphs, where \(d_{\mathrm{max}}\) is the maximum node degree in the graph;<br>
-  - \(\widetilde{O}\left(n^{\gamma-1/2}/\varepsilon\right)\) for power-law graphs, where \(n=|V|\) and \(\gamma\in\left(\frac{1}{2},1\right)\) is the extent of the power law.<br>
-  These sublinear bounds improve upon existing results. We also study the case when degree-normalized absolute error guarantees are desired, requiring \(\max_{t\in V}\big|\hat{\pi}(s,t)/d(t)-\pi(s,t)/d(t)\big|\le\varepsilon_d\) for a given error bound \(\varepsilon_d\), where the graph is undirected and \(d(t)\) is the degree of node \(t\). We give an algorithm that provides this error guarantee with high probability, achieving an expected complexity of \(\widetilde{O}\left(\sqrt{\sum_{t\in V}\pi(s,t)/d(t)}\big/\varepsilon_d\right)\). This improves over the previously known \(O(1/\varepsilon_d)\) complexity.}
+  abstract =
+  {
+    Personalized PageRank (PPR) is an extensively studied and applied node proximity measure in graphs. For a pair of nodes \(s\) and \(t\) on a graph \(G=(V,E)\), the PPR value \(\pi(s,t)\) is defined as the probability that an \(\alpha\)-discounted random walk from \(s\) terminates at \(t\), where the walk terminates with probability \(\alpha\) at each step. We study the classic Single-Source PPR query, which asks for PPR approximations from a given source node \(s\) to all nodes in the graph. Specifically, we aim to provide approximations with absolute error guarantees, ensuring that the resultant PPR estimates \(\hat{\pi}(s,t)\) satisfy \(\max_{t\in V}\big|\hat{\pi}(s,t)-\pi(s,t)\big|\le\varepsilon\) for a given error bound \(\varepsilon\). We propose an algorithm that achieves this with high probability, with an expected running time of<br>
+    - \(\widetilde{O}\big(\sqrt{m}/\varepsilon\big)\) for directed graphs, where \(m=|E|\);<br>
+    - \(\widetilde{O}\big(\sqrt{d_{\mathrm{max}}}/\varepsilon\big)\) for undirected graphs, where \(d_{\mathrm{max}}\) is the maximum node degree in the graph;<br>
+    - \(\widetilde{O}\left(n^{\gamma-1/2}/\varepsilon\right)\) for power-law graphs, where \(n=|V|\) and \(\gamma\in\left(\frac{1}{2},1\right)\) is the extent of the power law.<br>
+    These sublinear bounds improve upon existing results. We also study the case when degree-normalized absolute error guarantees are desired, requiring \(\max_{t\in V}\big|\hat{\pi}(s,t)/d(t)-\pi(s,t)/d(t)\big|\le\varepsilon_d\) for a given error bound \(\varepsilon_d\), where the graph is undirected and \(d(t)\) is the degree of node \(t\). We give an algorithm that provides this error guarantee with high probability, achieving an expected complexity of \(\widetilde{O}\left(\sqrt{\sum_{t\in V}\pi(s,t)/d(t)}\big/\varepsilon_d\right)\). This improves over the previously known \(O(1/\varepsilon_d)\) complexity.
+  }
 }
