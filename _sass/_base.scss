@@ -845,8 +845,9 @@ figure.highlight {
 }
 
 pre {
-  color: var(--global-theme-color);
-  background-color: var(--global-code-bg-color);
+/*  color: var(--global-theme-color);*/
+/*  background-color: var(--global-code-bg-color);*/
+  border: 1px dashed var(--global-text-color);
   border-radius: 6px;
   padding: 6px 12px;
 
