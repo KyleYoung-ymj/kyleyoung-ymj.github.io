@@ -50,9 +50,8 @@
   author = {Zhewei Wei and
             Ji-Rong Wen and
             Mingji Yang},
-  title = {Approximating Single-Source Personalized PageRank with Absolute Error
-           Guarantees †},
-  booktitle = {Proceedings of the 27th International Conference on Database Theory, to appear},
+  title = {Approximating Single-Source Personalized PageRank with Absolute Error Guarantees †},
+  booktitle = {Proceedings of the 27th International Conference on Database Theory},
   month = {March},
   year = {2024},
   abbr = {ICDT 2024},
@@ -65,5 +64,20 @@
     - \(\widetilde{O}\big(\sqrt{d_{\mathrm{max}}}/\varepsilon\big)\) for undirected graphs, where \(d_{\mathrm{max}}\) is the maximum node degree in the graph;<br>
     - \(\widetilde{O}\left(n^{\gamma-1/2}/\varepsilon\right)\) for power-law graphs, where \(n=|V|\) and \(\gamma\in\left(\frac{1}{2},1\right)\) is the extent of the power law.<br>
     These sublinear bounds improve upon existing results. We also study the case when degree-normalized absolute error guarantees are desired, requiring \(\max_{t\in V}\big|\hat{\pi}(s,t)/d(t)-\pi(s,t)/d(t)\big|\le\varepsilon_d\) for a given error bound \(\varepsilon_d\), where the graph is undirected and \(d(t)\) is the degree of node \(t\). We give an algorithm that provides this error guarantee with high probability, achieving an expected complexity of \(\widetilde{O}\left(\sqrt{\sum_{t\in V}\pi(s,t)/d(t)}\big/\varepsilon_d\right)\). This improves over the previously known \(O(1/\varepsilon_d)\) complexity.
+  },
+  doi = {10.4230/LIPIcs.ICDT.2024.9},
+  bibtex_show = true,
+  bibtex =
+  {@inproceedings{wei2024approximating,
+  author       = {Zhewei Wei and
+                  Ji{-}Rong Wen and
+                  Mingji Yang},
+  title        = {Approximating single-source personalized pagerank with absolute error guarantees},
+  booktitle    = {27th Int. Conf. Database Theory},
+  volume       = {290},
+  pages        = {9:1--9:19},
+  year         = {2024},
+  doi          = {10.4230/LIPIcs.ICDT.2024.9}
+}
   }
 }
