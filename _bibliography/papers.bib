@@ -42,7 +42,14 @@
   booktitle = {Proceedings of the 56th Annual ACM Symposium on Theory of Computing, to appear},
   month = {June},
   year = {2024},
-  abbr = {STOC 2024}
+  abbr = {STOC 2024},
+  arxiv = {2403.12648},
+  tldr = {This paper uses simple techniques and analyses to give matching upper and lower bounds for estimating PageRank contributions and single-node PageRank. Our results for the upper bounds are derived by revisiting the known algorithms of ApproxContributions (a.k.a. Backward Push) and BiPPR.},
+  abstract =
+  {
+    We revisit the classic local graph exploration algorithm ApproxContributions proposed by Andersen, Borgs, Chayes, Hopcroft, Mirrokni, and Teng (WAW '07, Internet Math. '08) for computing an \(\epsilon\)-approximation of the PageRank contribution vector for a target node \(t\) on a graph with \(n\) nodes and \(m\) edges. We give a worst-case complexity bound of ApproxContributions as \(O\left(n\pi(t)/\epsilon\cdot\min\big(\Delta_{\mathrm{in}},\Delta_{\mathrm{out}},\sqrt{m}\big)\right)\), where \(\pi(t)\) is the PageRank score of \(t\), and \(\Delta_{\mathrm{in}}\) and \(\Delta_{\mathrm{out}}\) are the maximum in-degree and out-degree of the graph, resp. We also give a lower bound of \(\Omega\left(\min\big(\Delta_{\mathrm{in}}/\delta,\Delta_{\mathrm{out}}/\delta,\sqrt{m}/\delta,m\big)\right)\) for detecting the \(\delta\)-contributing set of \(t\), showing that the simple ApproxContributions algorithm is already optimal.<br>
+    As ApproxContributions has become a cornerstone for computing random-walk probabilities, our results and techniques can be applied to derive better bounds for various relevant problems. In particular, we investigate the computational complexity of locally estimating a node's PageRank centrality. We improve the best-known upper bound of \(\widetilde{O}\left(n^{2/3}\cdot\min\left(\Delta_{\mathrm{out}}^{1/3},m^{1/6}\right)\right)\) given by Bressan, Peserico, and Pretto (SICOMP '23) to \(O\left(n^{1/2}\cdot\min\left(\Delta_{\mathrm{in}}^{1/2},\Delta_{\mathrm{out}}^{1/2},m^{1/4}\right)\right)\) by simply combining ApproxContributions with the Monte Carlo simulation method. We also improve their lower bound of \(\Omega\left(\min\left(n^{1/2}\Delta_{\mathrm{out}}^{1/2},n^{1/3}m^{1/3}\right)\right)\) to \(\Omega\left(n^{1/2}\cdot\min\left(\Delta_{\mathrm{in}}^{1/2},\Delta_{\mathrm{out}}^{1/2},m^{1/4}\right)\right)\) if \(\min(\Delta_{\mathrm{in}},\Delta_{\mathrm{out}})=\Omega\left(n^{1/3}\right)\), and to \(\Omega\left(n^{1/2-\gamma}\big(\min(\Delta_{\mathrm{in}},\Delta_{\mathrm{out}})\big)^{1/2+\gamma}\right)\) if \(\min(\Delta_{\mathrm{in}},\Delta_{\mathrm{out}})=o\left(n^{1/3}\right)\), where \(\gamma>0\) is an arbitrarily small constant. Our matching upper and lower bounds resolve the open problem of whether one can tighten the bounds given by Bressan, Peserico, and Pretto (FOCS '18, SICOMP '23). Remarkably, the techniques and analyses for proving all our results are surprisingly simple.
+  },
 }
 
 @inproceedings{wei2024approximating,
@@ -73,7 +80,7 @@
                   Ji{-}Rong Wen and
                   Mingji Yang},
   title        = {Approximating single-source personalized pagerank with absolute error guarantees},
-  booktitle    = {27th Int. Conf. Database Theory},
+  booktitle    = {Proc. 27th Int. Conf. Database Theory},
   volume       = {290},
   pages        = {9:1--9:19},
   year         = {2024},
