@@ -174,15 +174,10 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /awards/:path/
   services:
     defaults:
       layout: post
     output: true
-    permalink: /services/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
 
 announcements:
   enabled: true
