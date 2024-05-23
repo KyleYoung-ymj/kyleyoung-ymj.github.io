@@ -11,6 +11,8 @@ nav_order: 4
 
 - *[Introduction to Algorithms, Fourth Edition](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)* by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (Official [3e to 4e Transition Guide](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/11599/transition-guide-22-01.pdf) and [Errata](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/11599/e4-bugs.html))
 
+- *[The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)* by Donald E. Knuth
+
 - *[Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)* by Gilbert Strang
 
 - *[Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025)* by Ronald Graham, Donald Knuth, and Oren Patashnik
@@ -109,6 +111,8 @@ nav_order: 4
 - [Lu Yi](https://luyi256.github.io/) (Renmin University of China)
 
 - [Jingsen Zhang](https://jingsenzhang.github.io/) (Renmin University of China)
+
+- [Peitian Zhang](https://www.namespace-pt.com/) (Renmin University of China)
 
 - [Zeyu Zhang](https://zeyu-zhang.cn/) (Renmin University of China)
 
