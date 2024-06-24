@@ -13,7 +13,7 @@ nav_order: 4
 
 - *[The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)* by Donald E. Knuth
 
-- *[Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)* by Gilbert Strang
+- *[Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)* and *[Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)* by Gilbert Strang
 
 - *[Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025)* by Ronald Graham, Donald Knuth, and Oren Patashnik
 
