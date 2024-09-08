@@ -16,14 +16,11 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
-<<<<<<< HEAD
   --global-highlight-color: #{$red-color-dark};
   --global-back-to-top-bg-color: rgba(#{red($black-color)}, #{green($black-color)}, #{blue($black-color)}, 0.4);
   --global-back-to-top-text-color: #{$white-color};
   --global-newsletter-bg-color: #{$white-color};
   --global-newsletter-text-color: #{$black-color};
-=======
->>>>>>> b0b77b84 (Initial commit)
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -38,20 +35,12 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-<<<<<<< HEAD
   #light-toggle-system {
-=======
-  .fa-sun {
-    display: none;
-  }
-  .fa-moon {
->>>>>>> b0b77b84 (Initial commit)
     padding-left: 10px;
     padding-top: 12px;
     display: block;
   }
 
-<<<<<<< HEAD
   #light-toggle-dark {
     display: none;
   }
@@ -60,15 +49,12 @@
     display: none;
   }
 
-=======
->>>>>>> b0b77b84 (Initial commit)
   .repo-img-light {
     display: block;
   }
   .repo-img-dark {
     display: none;
   }
-<<<<<<< HEAD
 
   #back-to-top {
     color: var(--global-back-to-top-text-color);
@@ -79,19 +65,13 @@
     width: $back-to-top-width;
     z-index: $back-to-top-z-index;
   }
-=======
->>>>>>> b0b77b84 (Initial commit)
 }
 
 html[data-theme="dark"] {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
-<<<<<<< HEAD
   --global-text-color-light: #{$grey-color};
-=======
-  --global-text-color-light: #{$grey-color-light};
->>>>>>> b0b77b84 (Initial commit)
   --global-theme-color: #{$cyan-color};
   --global-hover-color: #{$cyan-color};
   --global-hover-text-color: #{$white-color};
@@ -101,13 +81,10 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
-<<<<<<< HEAD
   --global-back-to-top-bg-color: rgba(#{red($white-color)}, #{green($white-color)}, #{blue($white-color)}, 0.5);
   --global-back-to-top-text-color: #{$black-color};
   --global-newsletter-bg-color: #{$grey-color-light};
   --global-newsletter-text-color: #{$grey-color-dark};
-=======
->>>>>>> b0b77b84 (Initial commit)
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -122,18 +99,6 @@ html[data-theme="dark"] {
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-<<<<<<< HEAD
-=======
-  .fa-sun {
-    padding-left: 10px;
-    padding-top: 12px;
-    display: block;
-  }
-  .fa-moon {
-    display: none;
-  }
-
->>>>>>> b0b77b84 (Initial commit)
   .repo-img-light {
     display: none;
   }
@@ -141,7 +106,6 @@ html[data-theme="dark"] {
     display: block;
   }
 }
-<<<<<<< HEAD
 
 html[data-theme-setting="dark"] {
   #light-toggle-system {
@@ -179,5 +143,3 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
-=======
->>>>>>> b0b77b84 (Initial commit)

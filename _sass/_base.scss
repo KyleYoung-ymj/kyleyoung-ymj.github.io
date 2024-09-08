@@ -55,14 +55,6 @@ table.table a {
   }
 }
 
-<<<<<<< HEAD
-=======
-figure,
-img {
-  max-width: 90vw;
-}
-
->>>>>>> b0b77b84 (Initial commit)
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
@@ -167,33 +159,17 @@ ul.task-list input[type="checkbox"] {
 .card {
   background-color: var(--global-card-bg-color);
 
-<<<<<<< HEAD
   .card-img {
     width: 100%;
     padding-top: 1.25rem;
-=======
-  img {
-    width: 100%;
->>>>>>> b0b77b84 (Initial commit)
   }
 
   .card-title {
     color: var(--global-text-color);
   }
 
-<<<<<<< HEAD
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
-=======
-  .card-item {
-    width: auto;
-    margin-bottom: 10px;
-
-    .row {
-      display: flex;
-      align-items: center;
-    }
->>>>>>> b0b77b84 (Initial commit)
   }
 }
 
@@ -379,12 +355,8 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-<<<<<<< HEAD
 #light-toggle,
 #search-toggle {
-=======
-#light-toggle {
->>>>>>> b0b77b84 (Initial commit)
   padding: 0;
   border: 0;
   background-color: inherit;
@@ -512,14 +484,11 @@ footer.sticky-bottom {
   color: var(--global-text-color);
 }
 
-<<<<<<< HEAD
 .date-column {
   width: 75px;
   transform: translateX(-15px) translateY(-5px);
 }
 
-=======
->>>>>>> b0b77b84 (Initial commit)
 // Repositories
 
 @media (min-width: 768px) {
@@ -655,19 +624,8 @@ footer.sticky-bottom {
     }
   }
 
-<<<<<<< HEAD
   .col {
     padding-bottom: 1rem;
-=======
-  .card-item {
-    width: auto;
-    margin-bottom: 10px;
-
-    .row {
-      display: flex;
-      align-items: center;
-    }
->>>>>>> b0b77b84 (Initial commit)
   }
 
   .grid-sizer,
@@ -712,10 +670,6 @@ footer.sticky-bottom {
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-<<<<<<< HEAD
-=======
-    margin-bottom: -2rem;
->>>>>>> b0b77b84 (Initial commit)
     text-align: right;
   }
 
@@ -728,30 +682,15 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
-<<<<<<< HEAD
       }
 
       .abbr {
-=======
-        width: 100%;
-        min-width: 80px;
-        max-width: 200px;
-      }
-
-      .abbr {
-        height: 2rem;
->>>>>>> b0b77b84 (Initial commit)
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-<<<<<<< HEAD
           margin-bottom: 0.5rem;
-=======
-          padding-left: 1rem;
-          padding-right: 1rem;
->>>>>>> b0b77b84 (Initial commit)
 
           a {
             color: white;
@@ -815,12 +754,9 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
-<<<<<<< HEAD
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
-=======
->>>>>>> b0b77b84 (Initial commit)
       }
 
       .badges {
@@ -887,15 +823,12 @@ footer.sticky-bottom {
       }
 
     }
-<<<<<<< HEAD
     div.award.hidden {
       border: dashed 1px var(--global-bg-color);
     }
     div.award.hidden.open {
       border-color: var(--global-highlight-color);
     }
-=======
->>>>>>> b0b77b84 (Initial commit)
   }
 }
 
@@ -1149,13 +1082,6 @@ nav[data-toggle="toc"] {
     }
   }
 
-<<<<<<< HEAD
-=======
-  .card-item {
-    margin-bottom: 10px;
-  }
-
->>>>>>> b0b77b84 (Initial commit)
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
@@ -1192,7 +1118,6 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
-<<<<<<< HEAD
 
 .ps-root {
   .ps-algorithm {
@@ -1235,7 +1160,8 @@ ninja-keys::part(ninja-input-wrapper) {
   width: 100%;
 }
 
-.newsletter-form-input {
+.newsletter-form-input,
+.bibsearch-form-input {
   color: var(--global-newsletter-text-color);
   background: var(--global-newsletter-bg-color);
   border: 1px solid var(--global-newsletter-text-color);
@@ -1373,5 +1299,18 @@ ninja-keys::part(ninja-input-wrapper) {
     border-bottom-color: var(--global-divider-color);
   }
 }
-=======
->>>>>>> b0b77b84 (Initial commit)
+
+// highlight-search-term
+::highlight(search) {
+  background-color: var(--global-theme-color);
+  color: var(--global-text-color);
+}
+
+.social-header {
+  font-size: 1.75rem;
+
+  img {
+    height: 1.75rem;
+    filter: brightness(0) saturate(100%) invert(46%) sepia(31%) saturate(931%) hue-rotate(147deg) brightness(103%) contrast(98%);
+  }
+}

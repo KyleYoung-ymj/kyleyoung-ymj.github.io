@@ -1,14 +1,10 @@
 {% if page.chart and page.chart.chartjs %}
-<<<<<<< HEAD
   <script
     defer
     src="{{ site.third_party_libraries.chartjs.url.js }}"
     integrity="{{ site.third_party_libraries.chartjs.integrity.js }}"
     crossorigin="anonymous"
   ></script>
-=======
-  <script defer src="https://cdn.jsdelivr.net/npm/chart.js@{{ site.chartjs.version }}/dist/chart.umd.min.js"></script>
->>>>>>> b0b77b84 (Initial commit)
   <script>
     $(document).ready(function () {
       var $canvas = null,

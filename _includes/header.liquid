@@ -115,17 +115,11 @@
             {% endif %}
           {% endfor %}
 
-          <!-- CV -->
-          <li class="nav-item {% if page.permalink == 'cv' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/assets/pdf/Mingji_Yang_CV.pdf' | relative_url }}" target="_blank">CV (pdf)
-            </a>
-          </li>
-
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
-                <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
+                <span class="nav-link"><i class="ti ti-search"></i></span>
               </button>
             </li>
           {% endif %}

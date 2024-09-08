@@ -1,52 +1,29 @@
 {% if page.chart and page.chart.vega_lite %}
   <script
     defer
-<<<<<<< HEAD
     src="{{ site.third_party_libraries.vega.url.js }}"
     integrity="{{ site.third_party_libraries.vega.integrity.js }}"
-=======
-    src="https://cdn.jsdelivr.net/npm/vega@{{ site.vega.version }}/build/vega.min.js"
-    integrity="{{ site.vega.integrity }}"
->>>>>>> b0b77b84 (Initial commit)
     crossorigin="anonymous"
   ></script>
   <script
     defer
-<<<<<<< HEAD
     src="{{ site.third_party_libraries.vega-lite.url.js }}"
     integrity="{{ site.third_party_libraries.vega-lite.integrity.js }}"
-=======
-    src="https://cdn.jsdelivr.net/npm/vega-lite@{{ site.vega-lite.version }}/build/vega-lite.min.js"
-    integrity="{{ site.vega-lite.integrity }}"
->>>>>>> b0b77b84 (Initial commit)
     crossorigin="anonymous"
   ></script>
   <script
     defer
-<<<<<<< HEAD
     src="{{ site.third_party_libraries.vega-embed.url.js }}"
     integrity="{{ site.third_party_libraries.vega-embed.integrity.js }}"
-=======
-    src="https://cdn.jsdelivr.net/npm/vega-embed@{{ site.vega-embed.version }}/build/vega-embed.min.js"
-    integrity="{{ site.vega-embed.integrity }}"
->>>>>>> b0b77b84 (Initial commit)
     crossorigin="anonymous"
   ></script>
 
   <script>
-<<<<<<< HEAD
     let vegaTheme = determineComputedTheme();
 
     /* Create vega lite chart as another node and hide the code block, appending the vega lite node after it
        this is done to enable retrieving the code again when changing theme between light/dark */
     document.addEventListener('readystatechange', () => {
-=======
-    let theme = localStorage.getItem('theme');
-
-    /* Create vega lite chart as another node and hide the code block, appending the vega lite node after it
-       this is done to enable retrieving the code again when changing theme between light/dark */
-    document.onreadystatechange = () => {
->>>>>>> b0b77b84 (Initial commit)
       if (document.readyState === 'complete') {
         document.querySelectorAll('pre>code.language-vega_lite').forEach((elem) => {
           const jsonData = elem.textContent;
@@ -58,21 +35,13 @@
           backup.after(chartElement);
 
           /* Embed the visualization in the container */
-<<<<<<< HEAD
           if (vegaTheme === 'dark') {
-=======
-          if (theme === 'dark') {
->>>>>>> b0b77b84 (Initial commit)
             vegaEmbed(chartElement, JSON.parse(jsonData), { theme: 'dark' });
           } else {
             vegaEmbed(chartElement, JSON.parse(jsonData));
           }
         });
       }
-<<<<<<< HEAD
     });
-=======
-    };
->>>>>>> b0b77b84 (Initial commit)
   </script>
 {% endif %}

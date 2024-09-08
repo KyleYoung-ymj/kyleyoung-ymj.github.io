@@ -54,10 +54,7 @@
     content: unquote('"#{ $fa-var }"');
   }
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> b0b77b84 (Initial commit)
 @mixin fa-icon-regular($fa-var) {
   @extend %fa-icon;
   @extend .fa-regular;
@@ -66,10 +63,7 @@
     content: unquote('"#{ $fa-var }"');
   }
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> b0b77b84 (Initial commit)
 @mixin fa-icon-brands($fa-var) {
   @extend %fa-icon;
   @extend .fa-brands;

@@ -25,6 +25,8 @@ nav_order: 4
 
 - *[Computational Complexity: A Conceptual Perspective](https://www.wisdom.weizmann.ac.il/~oded/cc-book.html)* by Oded Goldreich
 
+- *[Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/avi/book)* by Avi Wigderson
+
 - *[Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)* by Avrim Blum, John Hopcroft, and Ravindran Kannan
 
 - *[Mining of Massive Datasets](http://www.mmds.org/)* by Jure Leskovec, Anand Rajaraman, and Jeff Ullman
@@ -39,9 +41,9 @@ nav_order: 4
 
 - *[Introduction to Property Testing](https://www.wisdom.weizmann.ac.il/~oded//pt-intro.html)* by Oded Goldreich
 
-
-
 ## Courses
+
+- Carnegie Mellon University, [TCS Toolkit](https://www.diderot.one/courses/28) by Ryan O'Donnell
 
 - University of Washington, [CSE 599s: Modern Spectral Graph Theory](https://courses.cs.washington.edu/courses/cse599s/22wi/) by Shayan Oveis Gharan
 
@@ -49,30 +51,25 @@ nav_order: 4
 
 - YouTube, [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown
 
-
-
 ## Blogs
 
 - [Computational Complexity](https://blog.computationalcomplexity.org/) by Lance Fortnow
 
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.com/) by Richard B. Lipton and Kenneth Regan
 
-- [In theory](https://lucatrevisan.wordpress.com/) by Luca Trevisan
+- [In theory](https://lucatrevisan.wordpress.com/) by Luca Trevisan :candle:
 
 - [Property Testing Review](https://ptreview.sublinear.info/) by Clément Canonne, Akash Kumar, C. Seshadhri, and others
 
-
-
 ## Other Links
+
+- [Theory of Computing Report](https://theory.report/)
 
 - [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 
 - [List of Open Problems in Sublinear Algorithms](https://sublinear.info/index.php?title=Main_Page)
 
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/) maintained by Jeff Huang
-
-
-
 
 ## My Friends (In Alphabetic Order)
 
@@ -82,6 +79,8 @@ nav_order: 4
 
 - [Tingchen Fu](https://tingchenfu.github.io/) (Renmin University of China)
 
+- [Yuhe Guo](https://yuziguo.github.io/) (Renmin University of China)
+
 - [Mingguo He](https://ivam-he.github.io/) (Renmin University of China)
 
 - [Yupeng Hou](https://yupenghou.com/) (University of California San Diego)
@@ -90,9 +89,13 @@ nav_order: 4
 
 - [Runlin Lei](https://leirunlin.github.io/) (Renmin University of China)
 
+- [Jiajun Li](https://llijiajun.github.io/github-io/) (Renmin University of China)
+
 - [Yifan Lu](https://yifanlu0227.github.io/) (Shanghai Jiao Tong University)
 
 - [Siru Ouyang](https://ozyyshr.github.io/) (University of Illinois Urbana-Champaign)
+
+- [Jie Peng](https://lucas-pj.github.io/) (Renmin University of China)
 
 - [Zihua Si](https://ethan00si.github.io/) (Renmin University of China)
 
@@ -110,16 +113,21 @@ nav_order: 4
 
 - [Lu Yi](https://luyi256.github.io/) (Renmin University of China)
 
+- [Hanyan Yin](https://yinhanyan.github.io/) (Renmin University of China)
+
 - [Jingsen Zhang](https://jingsenzhang.github.io/) (Renmin University of China)
 
 - [Peitian Zhang](https://www.namespace-pt.com/) (Renmin University of China)
 
+- [Yang Zhang](https://fengyuewuya.github.io/) (Renmin University of China)
+
 - [Zeyu Zhang](https://zeyu-zhang.cn/) (Renmin University of China)
 
+- [Yanping Zheng](https://zheng-yp.github.io/) (Renmin University of China)
+
+- [Gengmo Zhou](https://zhougengmo.github.io/) (Renmin University of China)
+
 I apologize if you are my friend and I have inadvertently missed you on this list. Please let me know if you would like to be included, even if you do not have a personal website.
-
-
-
 
 ## My Experiences
 
