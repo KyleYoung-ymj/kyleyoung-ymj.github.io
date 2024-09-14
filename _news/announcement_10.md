@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-My first-authored paper “Approximating Single-Source Personalized PageRank with Absolute Error Guarantees” has been officially [published](https://ieeexplore.ieee.org/document/10471277/).
+My first-authored paper "Efficient Algorithms for Personalized PageRank Computation: A Survey" has been officially [published](https://ieeexplore.ieee.org/document/10471277/).
 
