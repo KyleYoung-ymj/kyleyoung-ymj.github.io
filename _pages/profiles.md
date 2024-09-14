@@ -77,6 +77,8 @@ nav_order: 4
 
 - [Shiyuan Deng](https://appsrv.cse.cuhk.edu.hk/~sydeng/) (The Chinese University of Hong Kong)
 
+- [Jinjia Feng](https://xkxxfyf.github.io/) (Renmin University of China)
+
 - [Tingchen Fu](https://tingchenfu.github.io/) (Renmin University of China)
 
 - [Yuhe Guo](https://yuziguo.github.io/) (Renmin University of China)
