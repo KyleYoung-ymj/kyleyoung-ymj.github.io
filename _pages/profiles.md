@@ -5,6 +5,8 @@ title: Misc
 description: This page will feature a curated collection of miscellaneous items, including useful online materials and my personal hobbies, experiences, and musings.
 nav: true
 nav_order: 4
+toc:
+  sidebar: left
 ---
 
 ## Books
@@ -71,7 +73,7 @@ nav_order: 4
 
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/) maintained by Jeff Huang
 
-## My Friends (In Alphabetic Order)
+## My Friends
 
 - [Guanyu Cui](https://guanyucui.github.io/) (Renmin University of China)
 
@@ -128,6 +130,8 @@ nav_order: 4
 - [Yanping Zheng](https://zheng-yp.github.io/) (Renmin University of China)
 
 - [Gengmo Zhou](https://zhougengmo.github.io/) (Renmin University of China)
+
+The list is in alphabetic order.
 
 I apologize if you are my friend and I have inadvertently missed you on this list. Please let me know if you would like to be included, even if you do not have a personal website.
 
