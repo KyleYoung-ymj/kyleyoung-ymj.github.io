@@ -77,7 +77,7 @@ toc:
 
 - [Guanyu Cui](https://guanyucui.github.io/) (Renmin University of China)
 
-- [Shiyuan Deng](https://appsrv.cse.cuhk.edu.hk/~sydeng/) (The Chinese University of Hong Kong)
+- [Shiyuan Deng](https://appsrv.cse.cuhk.edu.hk/~sydeng/) (Huawei Shanghai)
 
 - [Jinjia Feng](https://xkxxfyf.github.io/) (Renmin University of China)
 
@@ -105,9 +105,11 @@ toc:
 
 - [Zhongxiang Sun](https://jeryi-sun.github.io/) (Renmin University of China)
 
-- [Tianyi Tang](https://steventang1998.github.io/) (Renmin University of China)
+- [Tianyi Tang](https://steventang1998.github.io/) (Alibaba Tongyi Lab)
 
-- [Hanzhi Wang](https://wanghzccls.github.io/) (Renmin University of China)
+- [Hanzhi Wang](https://wanghzccls.github.io/) (University of Copenhagen)
+
+- [Lei Wang](https://paitesanshi.github.io/) (Renmin University of China)
 
 - [Ru Wang](https://appsrv.cse.cuhk.edu.hk/~rwang21/) (The Chinese University of Hong Kong)
 
