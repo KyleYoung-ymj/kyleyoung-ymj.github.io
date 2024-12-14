@@ -111,9 +111,13 @@ toc:
 
 - [Jialiang Xu](https://liamjxu.github.io/) (Stanford University)
 
+- [Wenkai Yang](https://keven980716.github.io/) (Renmin University of China)
+
 - [Zequn Yang](https://bjlfzs.github.io/) (Renmin University of China)
 
 - [Wei Yao](https://yw101004244.github.io/) (Renmin University of China)
+
+- [Qi Ye](https://scholar.google.com/citations?user=mTyAkCAAAAAJ&hl=en&oi=sra) (Tsinghua University)
 
 - [Lu Yi](https://luyi256.github.io/) (Renmin University of China)
 
