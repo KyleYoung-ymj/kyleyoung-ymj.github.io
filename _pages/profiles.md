@@ -43,13 +43,17 @@ toc:
 
 ## Useful Courses
 
-- [TCS Toolkit](https://www.diderot.one/courses/28) by Ryan O'Donnell, Carnegie Mellon University ([videos](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) and [previous lecture notes](https://www.cs.cmu.edu/~odonnell/toolkit13/))
+- [TCS Toolkit](https://www.diderot.one/courses/28) by Ryan O'Donnell, Carnegie Mellon University, 2020 ([videos](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) and [previous lecture notes](https://www.cs.cmu.edu/~odonnell/toolkit13/))
 
-- [Spectral Algorithms](https://appsrv.cse.cuhk.edu.hk/~chi/csc5160/index.html) by Lap Chi Lau, The Chinese University of Hong Kong
+- [Eigenvalues and Polynomials](https://cs.uwaterloo.ca/~lapchi/cs860/index.html) by Lap Chi Lau, University of Waterloo, 2022
 
-- [Modern Spectral Graph Theory](https://courses.cs.washington.edu/courses/cse599s/22wi/) by Shayan Oveis Gharan, University of Washington
+- [Spectral Graph Theory](https://cs.uwaterloo.ca/~lapchi/cs860-2019/index.html) by Lap Chi Lau, University of Waterloo, 2019 ([2015 version](https://cs.uwaterloo.ca/~lapchi/cs798-2015/index.html))
 
-- [Graph Partitioning and Expanders](https://theory.stanford.edu/~trevisan/cs359g/) by Luca Trevisan, Stanford University
+- [Spectral Algorithms](https://appsrv.cse.cuhk.edu.hk/~chi/csc5160/index.html) by Lap Chi Lau, The Chinese University of Hong Kong, 2012
+
+- [Modern Spectral Graph Theory](https://courses.cs.washington.edu/courses/cse599s/22wi/) by Shayan Oveis Gharan, University of Washington, 2022
+
+- [Graph Partitioning, Expanders and Spectral Methods](https://lucatrevisan.github.io/books/expanders-2016.pdf) by Luca Trevisan, U.C. Berkeley, 2016
 
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown, YouTube
 
@@ -159,7 +163,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - I used to be passionate about competitive programming. I participated in OI (Olympiad in Informatics) and [ICPC (International Collegiate Programming Contest)](https://icpc.global/) during my senior high and undergraduate time, respectively. You can find my [Codeforces](https://codeforces.com/) account [here](https://codeforces.com/profile/KyleYoung). I began to learn OI when I entered senior high school, and it changed my whole life.
 
-- You can find a few photos of me with members of our research group [here](https://algruc.github.io/weizhewei.com/people/).
+- You can find a few photos of me with members of our research group [here](https://weizhewei.com/).
 
 - I was born in 2000.
 
@@ -183,13 +187,17 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - 我在中国人民大学 2024 年“一二·九”冬季校园长跑赛中顺利完赛（全长约 8 公里）。
 
+- 我在于 2021 年 9 月举办的 CCF（中国计算机学会）[CSP 计算机软件能力认证](https://cspro.org/) 中获得了 500 分满分。
+
 - 我在由北京大学信息科学技术学院学生会于 2020 年 3 月主办的[俄罗斯方块比赛](https://mp.weixin.qq.com/s/M4j8w7BY5r7DBu6_0qWgkw)中获得了团队季军。
 
 - 我作为“众志成城”方阵的一员参加了[2019年国庆阅兵](https://baike.baidu.com/item/%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5%E5%BC%8F)的群众游行活动。
 
+- 我在 2019 年 6 月的全国大学英语六级考试中获得了 634 分。
+
 - 我作为信息学院代表队成员参加了[中国人民大学 2018 年“一二·九”合唱音乐节](https://mp.weixin.qq.com/s/f7GW1jycmCilcKSWDxWhrg)。
 
-- 我出生于浙江温州，高中就读于乐成寄宿中学（现乐清市知临中学）。
+- 我出生于浙江温州，高中就读于乐成寄宿中学（现乐清市知临中学）。你可以在 [OIerDb](https://oier.baoshuo.dev/) 的[这里](https://oier.baoshuo.dev/oier/20481)找到我的一些 OI 参赛数据。
 
 ### 相关报道
 
@@ -208,3 +216,101 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 - [《1人满分，清北与我校在中国计算机学会第23次CSP认证中排名前三》](http://ai.ruc.edu.cn//newslist/newsdetail/61682099c13642ae882fcd2f9f4bf630.htm)，中国人民大学高瓴人工智能学院
 
 - [《院系创一流丨人大图灵实验班学子在国际大学生程序设计竞赛中再获佳绩》](https://mp.weixin.qq.com/s/lgM5pF4Hn6Pz-pnChNRVjQ)，人大阳光招生
+
+### 荣誉奖项
+
+#### 2024
+
+- 优秀学生干部荣誉称号，中国人民大学
+
+- 社会工作与志愿服务骨干三等奖学金，中国人民大学
+
+- 中国人民大学高瓴人工智能学院一等学业奖学金，中国人民大学高瓴人工智能学院
+
+#### 2023
+
+- “微观博易杯”中国人民大学校内程序设计大赛团体赛金奖，中国人民大学
+
+- 示范宿舍荣誉，中国人民大学
+
+- 中国人民大学高瓴人工智能学院二等学业奖学金，中国人民大学高瓴人工智能学院
+
+#### 2022
+
+- 北京市普通高等学校优秀毕业生，北京市教育委员会
+
+- 优秀共青团员，中国人民大学
+
+- 中国人民大学高瓴人工智能学院一等学业奖学金，中国人民大学高瓴人工智能学院
+
+#### 2021
+
+- 国际大学生程序设计竞赛亚洲东大陆赛区总决赛银奖，ICPC Foundation
+
+- CCF 优秀大学生奖，中国计算机学会
+
+- CCF 大学生计算机系统与程序设计竞赛金奖，中国计算机学会
+
+- 中国⼈民⼤学秋季程序设计校内赛硬核组⾦奖（冠军），中国人民大学
+
+- 学习优秀二等奖学金，中国人民大学
+
+- 中国⼈民⼤学信息学院萨师煊精英基金奖学金一等奖，中国⼈民⼤学信息学院
+
+#### 2020
+
+- 国际大学生程序设计竞赛亚洲东大陆上海区域赛银奖，ICPC Foundation
+
+- 京东奖学⾦（学习学术类⼀等奖学⾦），中国人民大学
+
+- 中国人民大学程序设计校内个人赛银奖，中国人民大学
+
+- 中国⼈民⼤学信息学院萨师煊精英基金奖学金特等奖，中国⼈民⼤学信息学院
+
+#### 2019
+
+- 国际大学生程序设计竞赛亚洲东大陆赛区总决赛银奖，ICPC Foundation
+
+- 国际大学生程序设计竞赛亚洲东大陆南昌区域赛金奖（第 10 名），ICPC Foundation
+
+- 国际大学生程序设计竞赛亚洲东大陆南京区域赛金奖，ICPC Foundation
+
+- 国际大学生程序设计竞赛中国西安邀请赛金奖（季军），ICPC Foundation
+
+- 国际大学生程序设计竞赛中国南昌邀请赛金奖，ICPC Foundation
+
+- 本专科生国家奖学金，中华人民共和国教育部
+
+- 三好学生荣誉称号，中国人民大学
+
+- 优秀学生干部荣誉称号，中国人民大学
+
+- “中国人民大学服务保障中华人民共和国成立 70 周年庆祝活动先进个人”荣誉称号，中国人民大学
+
+- “壮丽70 同心人大”专项奖学金，中国人民大学
+
+- 中国⼈民⼤学英语演讲⽐赛优秀奖，中国人民大学
+
+- 中国⼈民⼤学信息学院萨师煊精英基金奖学金一等奖，中国⼈民⼤学信息学院
+
+#### 2018
+
+- 国际大学生程序设计竞赛亚洲东大陆赛区总决赛银奖，ICPC Foundation
+
+- 国际大学生程序设计竞赛亚洲东大陆焦作区域赛银奖，ICPC Foundation
+
+#### 2017
+
+- 全国青少年信息学奥林匹克竞赛 D 类银牌，中国计算机学会
+
+- 全国青少年信息学奥林匹克联赛提高组一等奖，中国计算机学会
+
+- 亚洲与太平洋地区信息学奥林匹克竞赛铜牌，中国计算机学会
+
+#### 2016
+
+- 全国青少年信息学奥林匹克联赛提高组一等奖，中国计算机学会
+
+#### 2015
+
+- 全国青少年信息学奥林匹克联赛提高组二等奖，中国计算机学会
