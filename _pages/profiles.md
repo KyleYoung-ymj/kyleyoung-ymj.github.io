@@ -79,6 +79,8 @@ toc:
 
 - [Shiyuan Deng](https://scholar.google.com/citations?user=expww2YAAAAJ&hl=zh-TW) (Huawei)
 
+- [Guanting Dong](https://dongguanting.github.io/) (Renmin University of China)
+
 - [Jinjia Feng](https://xkxxfyf.github.io/) (Renmin University of China)
 
 - [Tingchen Fu](https://tingchenfu.github.io/) (Renmin University of China)
