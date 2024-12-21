@@ -153,13 +153,13 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - :video_game: :computer: I love playing video games, and have been a long-time fan of [Nintendo](https://www.nintendo.com/us/), especially a big fan of the [Super Mario](https://mario.nintendo.com/), [The Legend of Zelda](https://zelda.nintendo.com/), and the [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhythm_Heaven_(series)) series. I also like the [Ace Attorney](https://www.ace-attorney.com/) series. I possess a Nintendo Switch, a Wii U, and a Wii. Additionally, I am an amateur player of modern Tetris on [Puyo Puyo Tetris](https://puyo.sega.com/tetris/) and [TETR.IO](https://tetr.io/) ([my profile](https://ch.tetr.io/u/kyleyoung)), and also of Minesweeper on [Minesweeper Online](https://minesweeper.online/) ([my profile](https://minesweeper.online/player/13649905)). However, now I have little time for video games and I primarily play Minesweeper as a way to relieve stress.
 
-- :muscle: :running: Now I prioritize exercise in my daily life. I like playing [Ring Fit Adventure](https://ringfitadventure.nintendo.com/), playing basketball recreationally, and refreshing myself in long-distance jogging.
+- :muscle: :running: Now I prioritize exercise in my daily life. I like playing [Ring Fit Adventure](https://ringfitadventure.nintendo.com/), playing basketball recreationally (which I just started in fall 2024), and refreshing myself in long-distance jogging.
 
 - :musical_note: :musical_keyboard: I enjoy listening to music, primarily instrumental pieces, and especially piano and violin compositions as well as instrumental Jazz Hip-Hop music. My favorite composers include [Otokaze](https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj) and [DJ Okawari](http://www.djokawari.com/).
 
 ## My Experiences
 
-- From 2020 to 2022, I was severely afflicted by *Ménière's disease*. During those years, I frequently suffered from vertigo, tinnitus, and hearing loss, spending dozens of days in the transfusion room. Those nightmarish experiences forced me to slow down, reevaluate my lifestyle, and reflect deeply on my attitude toward life. Fortunately, after several years of active treatment, I have recovered from the disease, although it has left some lasting impact on my hearing.
+- From 2020 to 2022, I was severely afflicted by [Ménière's disease](https://en.wikipedia.org/wiki/M%C3%A9ni%C3%A8re%27s_disease). During those years, I frequently suffered from vertigo, tinnitus, and hearing loss, spending dozens of days in the transfusion room. Those nightmarish experiences forced me to slow down, reevaluate my lifestyle, and reflect deeply on my attitude toward life. Fortunately, after several years of active treatment, I have recovered from the disease, although it has left some lasting impact on my hearing.
 
 - I used to be passionate about competitive programming. I participated in OI (Olympiad in Informatics) and [ICPC (International Collegiate Programming Contest)](https://icpc.global/) during my senior high and undergraduate time, respectively. You can find my [Codeforces](https://codeforces.com/) account [here](https://codeforces.com/profile/KyleYoung). I began to learn OI when I entered senior high school, and it changed my whole life.
 
@@ -187,11 +187,21 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - 我在中国人民大学 2024 年“一二·九”冬季校园长跑赛中顺利完赛（全长约 8 公里）。
 
-- 我在于 2021 年 9 月举办的 CCF（中国计算机学会）[CSP 计算机软件能力认证](https://cspro.org/) 中获得了 500 分满分。
+- 我自 2024 年 9 月起担任中国人民大学高瓴人工智能学院 2022 级博士班的学习委员。
+
+- 我担任了 2023 年春季学期中国人民大学信息学院本科生课程“程序设计实践”的助教。
+
+- 我担任了 2022 年春季学期中国人民大学高瓴人工智能学院本科生课程“算法设计与分析”的助教。
+
+- 我在于 2021 年 9 月举办的 CCF（中国计算机学会）[CSP 计算机软件能力认证](https://cspro.org/)中获得了 500 分满分。
+
+- 我担任了 2021 年春季学期中国人民大学信息学院本科生课程“数据结构与算法II荣誉课程”的助教。
 
 - 我在由北京大学信息科学技术学院学生会于 2020 年 3 月主办的[俄罗斯方块比赛](https://mp.weixin.qq.com/s/M4j8w7BY5r7DBu6_0qWgkw)中获得了团队季军。
 
-- 我作为“众志成城”方阵的一员参加了[2019年国庆阅兵](https://baike.baidu.com/item/%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5%E5%BC%8F)的群众游行活动。
+- 我作为“众志成城”方阵的一员参加了[ 2019 年国庆阅兵](https://baike.baidu.com/item/%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5%E5%BC%8F)的群众游行活动。
+
+- 我自 2019 年 9 月至 2022 年 6 月担任了中国人民大学信息学院图灵班的学习委员。
 
 - 我在 2019 年 6 月的全国大学英语六级考试中获得了 634 分。
 
@@ -306,6 +316,8 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 - 全国青少年信息学奥林匹克联赛提高组一等奖，中国计算机学会
 
 - 亚洲与太平洋地区信息学奥林匹克竞赛铜牌，中国计算机学会
+
+- 全国青少年信息学奥林匹克竞赛冬令营铜牌，中国计算机学会
 
 #### 2016
 
