@@ -17,6 +17,8 @@ toc:
 
 - *[Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)* and *[Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)* by Gilbert Strang
 
+- *[Convex Optimization](https://stanford.edu/~boyd/cvxbook/)* by Stephen Boyd and Lieven Vandenberghe ([lecture videos on YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h))
+
 - *[Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/)* by Sanjeev Arora and Boaz Barak
 
 - *[Computational Complexity: A Conceptual Perspective](https://www.wisdom.weizmann.ac.il/~oded/cc-book.html)* by Oded Goldreich
