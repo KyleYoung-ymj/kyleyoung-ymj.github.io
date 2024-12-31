@@ -15,6 +15,8 @@ toc:
 
 - *[The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)* by Donald E. Knuth
 
+- *[Concrete Mathematics](https://www-cs-faculty.stanford.edu/~knuth/gkp.html)* by Ronald L. Graham, Donald E. Knuth, and Oren Patashnik
+
 - *[Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)* and *[Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)* by Gilbert Strang
 
 - *[Convex Optimization](https://stanford.edu/~boyd/cvxbook/)* by Stephen Boyd and Lieven Vandenberghe ([lecture videos on YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h))
