@@ -24,6 +24,6 @@ I am currently a 3rd-year Ph.D. candidate at [Gaoling School of Artificial Intel
 Before my graduate studies, I received my B.E. degree in Computer Science and Technology at Turing Class, [School of Information](http://info.ruc.edu.cn/Home/index.htm), Renmin University of China in June 2022.
 
 My research interests lie at the intersection of **theoretical computer science (TCS)** and **data mining**, with a particular emphasis on **spectral graph theory**, the **[Laplacian Paradigm](https://link.springer.com/chapter/10.1007/978-3-642-13562-0_2)** **[(2.0)](https://sachdevasushant.github.io/laplacian2.0/)**, and **sublinear graph algorithms**.
-Although I am currently at a school that focuses on artificial intelligence, I maintain a broad interest in and strong passion for TCS.
+Although I am currently at a school that focuses on artificial intelligence, I have developed a strong interest and passion for TCS and plan to dedicate my life to it.
 So far, my published works primarily concentrate on efficient approximation of **PageRank** and **Personalized PageRank** values, which are celebrated node centrality and proximity measures on graphs.
 I am currently striving to expand my research scope, and I hope to work out more significant results in spectral graph theory in the near future.

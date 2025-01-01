@@ -237,6 +237,8 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 #### 2024
 
+- CCF 算法能力大赛区域赛一等奖，中国计算机学会
+
 - 优秀学生干部荣誉称号，中国人民大学
 
 - 社会工作与志愿服务骨干三等奖学金，中国人民大学
