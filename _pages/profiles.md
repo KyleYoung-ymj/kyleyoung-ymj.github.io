@@ -67,6 +67,8 @@ toc:
 
 - [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 
+- [Awesome Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+
 - [Property Testing Review](https://ptreview.sublinear.info/)
 
 - [List of Open Problems in Sublinear Algorithms](https://sublinear.info/index.php?title=Main_Page)
