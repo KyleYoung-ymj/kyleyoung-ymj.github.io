@@ -31,19 +31,13 @@ toc:
 
 - *[The Nature of Computation](https://www.nature-of-computation.org/)* by Cristopher Moore and Stephan Mertens
 
-- *[Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)* by Avrim Blum, John Hopcroft, and Ravindran Kannan
-
 - *[Mining of Massive Datasets](http://www.mmds.org/)* by Jure Leskovec, Anand Rajaraman, and Jeff Ullman
 
 - *[Small Summaries for Big Data](http://dimacs.rutgers.edu/~graham/ssbd.html)* by Graham Cormode and Ke Yi
 
 - *[Network Science](http://networksciencebook.com/)* by Albert-László Barabási
 
-- *[Scalable Algorithms for Data and Network Analysis](https://www.nowpublishers.com/article/Details/TCS-051)* by Shang-Hua Teng
-
 - *[Spectral and Algebraic Graph Theory (Incomplete Draft)](http://cs-www.cs.yale.edu/homes/spielman/sagt/)* by Daniel A. Spielman
-
-- *[Markov Chains and Mixing Times](https://yuvalperes.com/markov-chains-and-mixing-times-2/)* by David A. Levin and Yuval Peres
 
 - *[Introduction to Property Testing](https://www.wisdom.weizmann.ac.il/~oded//pt-intro.html)* by Oded Goldreich
 
