@@ -41,6 +41,8 @@ toc:
 
 - *[Markov Chains and Mixing Times](https://pages.uoregon.edu/dlevin/MARKOV/)* by David A. Levin, Yuval Peres, and Elizabeth L. Wilmer
 
+- *[Probability on Trees and Networks](https://rdlyons.pages.iu.edu/prbtree/)* by Russell Lyons and Yuval Peres
+
 - *[Introduction to Property Testing](https://www.wisdom.weizmann.ac.il/~oded//pt-intro.html)* by Oded Goldreich
 
 ## Useful Courses
