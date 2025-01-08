@@ -39,6 +39,8 @@ toc:
 
 - *[Spectral and Algebraic Graph Theory (Incomplete Draft)](http://cs-www.cs.yale.edu/homes/spielman/sagt/)* by Daniel A. Spielman
 
+- *[Markov Chains and Mixing Times](https://pages.uoregon.edu/dlevin/MARKOV/)* by David A. Levin, Yuval Peres, and Elizabeth L. Wilmer
+
 - *[Introduction to Property Testing](https://www.wisdom.weizmann.ac.il/~oded//pt-intro.html)* by Oded Goldreich
 
 ## Useful Courses
