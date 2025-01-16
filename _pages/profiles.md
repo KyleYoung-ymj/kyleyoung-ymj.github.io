@@ -43,6 +43,8 @@ toc:
 
 - *[Probability on Trees and Networks](https://rdlyons.pages.iu.edu/prbtree/)* by Russell Lyons and Yuval Peres
 
+- *[Reversible Markov Chains and Random Walks on Graphs](https://www.stat.berkeley.edu/users/aldous/RWG/book.html)* by David Aldous and James Allen Fill
+
 - *[Introduction to Property Testing](https://www.wisdom.weizmann.ac.il/~oded//pt-intro.html)* by Oded Goldreich
 
 ## Useful Courses
