@@ -87,6 +87,8 @@ toc:
 
 - [Shiyuan Deng](https://scholar.google.com/citations?user=expww2YAAAAJ&hl=zh-TW) (Huawei)
 
+- [Haipeng Ding](https://dinghaipeng.com/homepage) (Renmin University of China)
+
 - [Guanting Dong](https://dongguanting.github.io/) (Renmin University of China)
 
 - [Jinjia Feng](https://xkxxfyf.github.io/) (Renmin University of China)
@@ -173,7 +175,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - I used to be passionate about competitive programming. I participated in OI (Olympiad in Informatics) and [ICPC (International Collegiate Programming Contest)](https://icpc.global/) during my senior high and undergraduate time, respectively. You can find my [Codeforces](https://codeforces.com/) account [here](https://codeforces.com/profile/KyleYoung). I began to learn OI when I entered senior high school, and it changed my whole life.
 
-- You can find a few photos of me with members of our research group [here](https://weizhewei.com/).
+- You can find a few photos of me with members of our research group [here](https://weizhewei.com/people/).
 
 - I was born in 2000.
 
@@ -241,7 +243,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 #### 2024
 
-- CCF 算法能力大赛区域赛一等奖，中国计算机学会
+- CCF 算法能力大赛北京市一等奖，中国计算机学会
 
 - 优秀学生干部荣誉称号，中国人民大学
 
