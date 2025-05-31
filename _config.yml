@@ -372,6 +372,8 @@ filtered_bibtex_keywords:
     tldr,
     video,
     website,
+    comments,
+    comments_text
   ]
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: # leave blank to always show all authors

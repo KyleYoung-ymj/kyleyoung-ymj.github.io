@@ -243,7 +243,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 #### 2024
 
-- CCF 算法能力大赛北京市一等奖，中国计算机学会
+- [CCF 算法能力大赛 (CACC)](https://cacc.ccf.org.cn/) 北京市一等奖，中国计算机学会
 
 - “京东·求是未来学者”学生科研创新奖学金，中国人民大学
 
@@ -271,11 +271,11 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 #### 2021
 
-- 国际大学生程序设计竞赛亚洲东大陆赛区总决赛银奖，ICPC Foundation
+- [国际大学生程序设计竞赛 (ICPC)]((https://icpc.global/)) 亚洲东大陆赛区总决赛银奖，ICPC Foundation
 
 - CCF 优秀大学生奖，中国计算机学会
 
-- CCF 大学生计算机系统与程序设计竞赛金奖，中国计算机学会
+- [CCF 大学生计算机系统与程序设计竞赛 (CCSP)](https://www.ccf.org.cn/ccsp/) 金奖，中国计算机学会
 
 - 中国⼈民⼤学秋季程序设计校内赛硬核组⾦奖（冠军），中国人民大学
 
@@ -327,13 +327,13 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 #### 2017
 
-- 全国青少年信息学奥林匹克竞赛 D 类银牌，中国计算机学会
+- [全国青少年信息学奥林匹克竞赛 (NOI)](https://www.noi.cn/) D 类银牌，中国计算机学会
 
-- 全国青少年信息学奥林匹克联赛提高组一等奖，中国计算机学会
+- 全国青少年信息学奥林匹克联赛 (NOIP) 提高组一等奖，中国计算机学会
 
-- 亚洲与太平洋地区信息学奥林匹克竞赛铜牌，中国计算机学会
+- 亚洲与太平洋地区信息学奥林匹克竞赛 (APIO) 铜牌，中国计算机学会
 
-- 全国青少年信息学奥林匹克竞赛冬令营铜牌，中国计算机学会
+- 全国青少年信息学奥林匹克竞赛冬令营 (WC) 铜牌，中国计算机学会
 
 #### 2016
 

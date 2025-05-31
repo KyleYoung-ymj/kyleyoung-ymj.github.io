@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gold Medal in [CCF Collegiate Computer Systems & Programming Contest (CCSP)](https://www.ccf.org.cn/ccsp/)
+Gold Medal in CCF Collegiate Computer Systems & Programming Contest (CCSP)
