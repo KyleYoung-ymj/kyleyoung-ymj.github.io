@@ -245,7 +245,9 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - [CCF 算法能力大赛 (CACC)](https://cacc.ccf.org.cn/) 北京市一等奖，中国计算机学会
 
-- “京东·求是未来学者”学生科研创新奖学金，中国人民大学
+- [中国人民大学“先锋奖章”](https://mp.weixin.qq.com/s/YZAdd56OMpkDVFXXg41r_g)（[学术创新领军学生群体代表](https://mp.weixin.qq.com/s/YZAdd56OMpkDVFXXg41r_g#:~:text=%E8%B5%A4%E5%AD%90%E6%83%85%E6%80%80%E3%80%82-,%E5%AD%A6%E6%9C%AF%E5%88%9B%E6%96%B0%E9%A2%86%E5%86%9B%E5%AD%A6%E7%94%9F%E7%BE%A4%E4%BD%93,-%E5%AD%A6%E6%9C%AF%E5%88%9B%E6%96%B0%E6%98%AF)，全校 3 人），中国人民大学
+
+- [“京东·求是未来学者”学生科研创新奖学金](https://v.ruc.edu.cn/me#/notice-detail/87387)，中国人民大学
 
 - 优秀学生干部荣誉称号，中国人民大学
 
@@ -281,7 +283,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - 学习优秀二等奖学金，中国人民大学
 
-- 中国⼈民⼤学信息学院萨师煊精英基金奖学金一等奖，中国⼈民⼤学信息学院
+- [中国⼈民⼤学信息学院萨师煊精英基金奖学金](http://info.ruc.edu.cn/xwgg/xygg/1d2895d1379641e3b63ba3c299a31c05.htm)一等奖，中国⼈民⼤学信息学院
 
 #### 2020
 
@@ -297,7 +299,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - 国际大学生程序设计竞赛亚洲东大陆赛区总决赛银奖，ICPC Foundation
 
-- 国际大学生程序设计竞赛亚洲东大陆南昌区域赛金奖（第 10 名），ICPC Foundation
+- 国际大学生程序设计竞赛亚洲东大陆南昌区域赛金奖（[第 10 名](https://icpc.global/regionals/finder/Asia-Nanchang-2020/standings)），ICPC Foundation
 
 - 国际大学生程序设计竞赛亚洲东大陆南京区域赛金奖，ICPC Foundation
 
