@@ -79,6 +79,8 @@ toc:
 
 - [Useful Inequalities](https://www.lkozma.net/inequalities_cheat_sheet/)
 
+- [Laplacian Linear Equations, Graph Sparsification, Local Clustering, Low-Stretch Trees, etc.](https://sites.google.com/a/yale.edu/laplacian/)
+
 ---
 
 ## My Friends
@@ -275,7 +277,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - [国际大学生程序设计竞赛 (ICPC)]((https://icpc.global/)) 亚洲东大陆赛区总决赛银奖，ICPC Foundation
 
-- CCF 优秀大学生奖，中国计算机学会
+- [CCF 优秀大学生奖](https://www.ccf.org.cn/Membership/Individual_member/Honor/2022-03-10/760238.shtml)，中国计算机学会
 
 - [CCF 大学生计算机系统与程序设计竞赛 (CCSP)](https://www.ccf.org.cn/ccsp/) 金奖，中国计算机学会
 
