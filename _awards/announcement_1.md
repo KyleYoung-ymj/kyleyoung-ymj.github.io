@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-12-31
+date: 2017-12-31
 inline: true
 related_posts: false
 ---
 
-China National Scholarship
+Silver Medal (Category D) in Chinese [National Olympiad in Informatics (NOI)](https://en.wikipedia.org/wiki/National_Olympiad_in_Informatics)

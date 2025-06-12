@@ -199,23 +199,17 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - 国内学术会议参会：[CNCC 2024](https://ccf.org.cn/cncc2024)、[NCTCS 2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)、[VALSE 2024](https://valser.org/2024/#/)、[CNCC 2023](https://ccf.org.cn/cncc2023)
 
+- 担任助教：2023 年春季学期中国人民大学信息学院本科生课程“程序设计实践”、2022 年春季学期中国人民大学高瓴人工智能学院本科生课程“算法设计与分析”、2021 年春季学期中国人民大学信息学院本科生课程“数据结构与算法II荣誉课程”
+
+- 担任班级职务：中国人民大学高瓴人工智能学院 2022 级博士班学习委员（2024 年 9 月至今）、中国人民大学信息学院图灵班学习委员（2019 年 9 月至 2022 年 6 月）
+
 - 我在中国人民大学 2024 年“一二·九”冬季校园长跑赛中顺利完赛（全长约 8 公里）。
 
-- 我自 2024 年 9 月起担任中国人民大学高瓴人工智能学院 2022 级博士班的学习委员。
-
-- 我担任了 2023 年春季学期中国人民大学信息学院本科生课程“程序设计实践”的助教。
-
-- 我担任了 2022 年春季学期中国人民大学高瓴人工智能学院本科生课程“算法设计与分析”的助教。
-
 - 我在于 2021 年 9 月举办的 CCF（中国计算机学会）[CSP 计算机软件能力认证](https://cspro.org/)中获得了 500 分满分。
-
-- 我担任了 2021 年春季学期中国人民大学信息学院本科生课程“数据结构与算法II荣誉课程”的助教。
 
 - 我在由北京大学信息科学技术学院学生会于 2020 年 3 月主办的[俄罗斯方块比赛](https://mp.weixin.qq.com/s/M4j8w7BY5r7DBu6_0qWgkw)中获得了团队季军。
 
 - 我作为“众志成城”方阵的一员参加了[ 2019 年国庆阅兵](https://baike.baidu.com/item/%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5%E5%BC%8F)的群众游行活动。
-
-- 我自 2019 年 9 月至 2022 年 6 月担任了中国人民大学信息学院图灵班的学习委员。
 
 - 我在 2019 年 6 月的全国大学英语六级考试中获得了 634 分。
 
@@ -275,8 +269,6 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 #### 2021
 
-- [国际大学生程序设计竞赛 (ICPC)]((https://icpc.global/)) 亚洲东大陆赛区总决赛银奖，ICPC Foundation
-
 - [CCF 优秀大学生奖](https://www.ccf.org.cn/Membership/Individual_member/Honor/2022-03-10/760238.shtml)，中国计算机学会
 
 - [CCF 大学生计算机系统与程序设计竞赛 (CCSP)](https://www.ccf.org.cn/ccsp/) 金奖，中国计算机学会
@@ -288,6 +280,8 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 - [中国⼈民⼤学信息学院萨师煊精英基金奖学金](http://info.ruc.edu.cn/xwgg/xygg/1d2895d1379641e3b63ba3c299a31c05.htm)一等奖，中国⼈民⼤学信息学院
 
 #### 2020
+
+- [国际大学生程序设计竞赛 (ICPC)]((https://icpc.global/)) 亚洲东大陆赛区总决赛银奖，ICPC Foundation
 
 - 国际大学生程序设计竞赛亚洲东大陆上海区域赛银奖，ICPC Foundation
 
@@ -331,7 +325,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 #### 2017
 
-- [全国青少年信息学奥林匹克竞赛 (NOI)](https://www.noi.cn/) D 类银牌，中国计算机学会
+- [全国青少年信息学奥林匹克竞赛 (NOI)](https://www.noi.cn/) D类银牌，中国计算机学会
 
 - 全国青少年信息学奥林匹克联赛 (NOIP) 提高组一等奖，中国计算机学会
 

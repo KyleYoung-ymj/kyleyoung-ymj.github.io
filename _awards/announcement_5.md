@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[CCF Elite Collegiate Award](https://www.ccf.org.cn/en/Awards/CCF_Awards/#:~:text=Elite%20Collegiate%20Award)
+Gold Medal in CCF Collegiate Computer Systems & Programming Contest (CCSP)
