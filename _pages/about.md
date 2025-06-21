@@ -20,8 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a 3rd-year Ph.D. candidate at [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/en), Renmin University of China, where I am fortunate to be supervised by Prof. [Ji-Rong Wen](https://gsai.ruc.edu.cn/english/jrwen/) and Prof. [Zhewei Wei](https://weizhewei.com/).
+I am currently a 3rd-year Ph.D. candidate at [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/en), Renmin University of China, where I am fortunate to be supervised by [Prof. Ji-Rong Wen](https://gsai.ruc.edu.cn/english/jrwen/) and [Prof. Zhewei Wei](https://weizhewei.com/).
 Before my graduate studies, I received my B.E. degree in Computer Science and Technology at Turing Class, [School of Information](http://info.ruc.edu.cn/Home/index.htm), Renmin University of China in June 2022.
+
+During the Spring of 2025, I was visiting the [Institute for Theoretical Computer Science](https://itcs.sufe.edu.cn/main.htm), [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/), working under the supervision of [Prof. Tsz Chiu Kwok](https://itcs.sufe.edu.cn/54/20/c10495a152608/page.htm).
 
 My research interests lie at the intersection of **theoretical computer science (TCS)** and **data mining**, with a particular emphasis on **spectral graph theory**, the **[Laplacian Paradigm](https://link.springer.com/chapter/10.1007/978-3-642-13562-0_2)** **[(2.0)](https://sachdevasushant.github.io/laplacian2.0/)**, and **sublinear graph algorithms**.
 Although I am currently at a school that focuses on artificial intelligence, I have developed a strong interest and passion for TCS and plan to dedicate my life to it.
