@@ -237,6 +237,10 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ### 荣誉奖项
 
+#### 2025
+
+- [中国人民大学高瓴人工智能学院院长“瓴航”奖学金](http://ai.ruc.edu.cn/newslist/notice/20250312100.html)，中国人民大学高瓴人工智能学院
+
 #### 2024
 
 - [CCF 算法能力大赛 (CACC)](https://cacc.ccf.org.cn/) 北京市一等奖，中国计算机学会
