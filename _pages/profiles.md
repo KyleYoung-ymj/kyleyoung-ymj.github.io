@@ -173,6 +173,8 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ## My Experiences
 
+- Attended international conferences: [STOC 2025](https://acm-stoc.org/stoc2025/), [EDBT/ICDT 2024](https://dastlab.github.io/edbticdt2024/)
+
 - From 2020 to 2022, I was severely afflicted by [Ménière's disease](https://en.wikipedia.org/wiki/M%C3%A9ni%C3%A8re%27s_disease). During those years, I frequently suffered from vertigo, tinnitus, and hearing loss, spending dozens of days in the transfusion room. Those nightmarish experiences forced me to slow down, reevaluate my lifestyle, and reflect deeply on my attitude toward life. Fortunately, after several years of active treatment, I have recovered from the disease, although it has left some lasting impact on my hearing.
 
 - I used to be passionate about competitive programming. I participated in OI (Olympiad in Informatics) and [ICPC (International Collegiate Programming Contest)](https://icpc.global/) during my senior high and undergraduate time, respectively. You can find my [Codeforces](https://codeforces.com/) account [here](https://codeforces.com/profile/KyleYoung). I began to learn OI when I entered senior high school, and it changed my whole life.
@@ -197,7 +199,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ### 经历
 
-- 国内学术会议参会：[CNCC 2024](https://ccf.org.cn/cncc2024)、[NCTCS 2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)、[VALSE 2024](https://valser.org/2024/#/)、[CNCC 2023](https://ccf.org.cn/cncc2023)
+- 国内学术会议参会：[CNCC 2024](https://ccf.org.cn/cncc2024)、[NCTCS 2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)、[CNCC 2023](https://ccf.org.cn/cncc2023)
 
 - 担任助教：2023 年春季学期中国人民大学信息学院本科生课程“程序设计实践”、2022 年春季学期中国人民大学高瓴人工智能学院本科生课程“算法设计与分析”、2021 年春季学期中国人民大学信息学院本科生课程“数据结构与算法II荣誉课程”
 
