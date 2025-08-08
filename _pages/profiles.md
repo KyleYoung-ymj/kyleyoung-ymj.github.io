@@ -103,7 +103,7 @@ toc:
 
 - [Yupeng Hou](https://yupenghou.com/) (University of California San Diego)
 
-- [Zhaoheng Huang](https://waldenruc.github.io/) (Renmin University of China)
+- [Zhaoheng Huang](https://waldenruc.notion.site/) (Renmin University of China)
 
 - [Runlin Lei](https://leirunlin.github.io/) (Renmin University of China)
 
