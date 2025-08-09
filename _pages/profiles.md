@@ -87,6 +87,8 @@ toc:
 
 - [Guanyu Cui](https://guanyucui.github.io/) (Renmin University of China)
 
+- [Sunhao Dai](https://kid-22.github.io/) (Renmin University of China)
+
 - [Shiyuan Deng](https://scholar.google.com/citations?user=expww2YAAAAJ&hl=zh-TW) (Huawei)
 
 - [Haipeng Ding](https://dinghaipeng.com/homepage) (Renmin University of China)
