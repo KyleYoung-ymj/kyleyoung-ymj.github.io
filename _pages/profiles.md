@@ -169,7 +169,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - :video_game: :computer: I love playing video games, and have been a long-time fan of [Nintendo](https://www.nintendo.com/us/), especially a big fan of the [Super Mario](https://mario.nintendo.com/), [The Legend of Zelda](https://zelda.nintendo.com/), and the [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhythm_Heaven_(series)) series. I also like the [Ace Attorney](https://www.ace-attorney.com/) series. Additionally, I am an amateur player of modern Tetris on [Puyo Puyo Tetris](https://puyo.sega.com/tetris/) and [TETR.IO](https://tetr.io/) ([my profile](https://ch.tetr.io/u/kyleyoung)), and also of Minesweeper on [Minesweeper Online](https://minesweeper.online/) ([my profile](https://minesweeper.online/player/13649905)).
 
-- :muscle: :running: Now I prioritize exercise in my daily life. I like playing [Ring Fit Adventure](https://ringfitadventure.nintendo.com/), playing basketball recreationally (which I just started in fall 2024), and refreshing myself in long-distance jogging.
+<!-- - :muscle: :running: Now I prioritize exercise in my daily life. I like playing [Ring Fit Adventure](https://ringfitadventure.nintendo.com/), playing basketball recreationally (which I just started in fall 2024), and refreshing myself in long-distance jogging. -->
 
 - :musical_note: :musical_keyboard: I enjoy listening to music, primarily instrumental pieces, and especially piano and violin compositions as well as instrumental Jazz Hip-Hop music. My favorite composers include [Otokaze](https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj) and [DJ Okawari](http://www.djokawari.com/).
 

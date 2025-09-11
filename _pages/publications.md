@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: >
-  Papers marked with "†" are from theoretical venues, where the authors have equal contributions and are ordered alphabetically.
+  Authors are ordered alphabetically with equal contributions by default. For papers marked with "†", authors are ordered by contribution.
 nav: true
 nav_order: 2
 ---
