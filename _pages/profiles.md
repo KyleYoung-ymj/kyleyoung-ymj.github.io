@@ -117,7 +117,7 @@ toc:
 
 - [Jie Peng](https://lucas-pj.github.io/) (Renmin University of China)
 
-- [Zihua Si](https://ethan00si.github.io/) (Renmin University of China)
+- [Zihua Si](https://ethan00si.github.io/) (TikTok)
 
 - [Zhongxiang Sun](https://jeryi-sun.github.io/) (Renmin University of China)
 
@@ -147,7 +147,7 @@ toc:
 
 - [Jingsen Zhang](https://jingsenzhang.github.io/) (Renmin University of China)
 
-- [Peitian Zhang](https://www.namespace-pt.com/) (Renmin University of China)
+- [Peitian Zhang](https://www.namespace-pt.com/) (Bytedance)
 
 - [Yang Zhang](https://fengyuewuya.github.io/) (China National Institute of Standardization)
 
