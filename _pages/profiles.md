@@ -251,7 +251,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - [中国人民大学“先锋奖章”](https://mp.weixin.qq.com/s/YZAdd56OMpkDVFXXg41r_g)（[学术创新领军学生群体代表](https://mp.weixin.qq.com/s/YZAdd56OMpkDVFXXg41r_g#:~:text=%E8%B5%A4%E5%AD%90%E6%83%85%E6%80%80%E3%80%82-,%E5%AD%A6%E6%9C%AF%E5%88%9B%E6%96%B0%E9%A2%86%E5%86%9B%E5%AD%A6%E7%94%9F%E7%BE%A4%E4%BD%93,-%E5%AD%A6%E6%9C%AF%E5%88%9B%E6%96%B0%E6%98%AF)，全校 3 人），中国人民大学
 
-- [“京东·求是未来学者”学生科研创新奖学金](https://v.ruc.edu.cn/me#/notice-detail/87387)，中国人民大学
+- [“京东·求是未来学者”学生科研创新奖学金](https://v.ruc.edu.cn/me#/notice-detail/87387)（全院研究生 1 人），中国人民大学
 
 - 论文 "Revisiting Local Computation of PageRank: Simple and Optimal" 获中国人民大学优秀科研成果奖一等奖，中国人民大学
 
