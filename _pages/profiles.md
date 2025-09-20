@@ -101,7 +101,7 @@ toc:
 
 - [Yuhe Guo](https://yuziguo.github.io/) (Renmin University of China)
 
-- [Mingguo He](https://ivam-he.github.io/) (Renmin University of China)
+- [Mingguo He](https://ivam-he.github.io/) (National University of Singapore)
 
 - [Yupeng Hou](https://yupenghou.com/) (University of California San Diego)
 
@@ -109,9 +109,9 @@ toc:
 
 - [Runlin Lei](https://leirunlin.github.io/) (Renmin University of China)
 
-- [Jiajun Li](https://llijiajun.github.io/github-io/) (Renmin University of China)
+- [Jiajun Li](https://llijiajun.github.io/github-io/) (Peking University)
 
-- [Yifan Lu](https://yifanlu0227.github.io/) (Shanghai Jiao Tong University)
+- [Yifan Lu](https://yifanlu0227.github.io/) (University of Toronto)
 
 - [Siru Ouyang](https://ozyyshr.github.io/) (University of Illinois Urbana-Champaign)
 
@@ -121,7 +121,7 @@ toc:
 
 - [Zhongxiang Sun](https://jeryi-sun.github.io/) (Renmin University of China)
 
-- [Tianyi Tang](https://steventang1998.github.io/) (Alibaba Tongyi Lab)
+- [Tianyi Tang](https://steventang1998.github.io/) (Alibaba)
 
 - [Hanzhi Wang](https://wanghzccls.github.io/) (University of Copenhagen)
 
@@ -143,13 +143,13 @@ toc:
 
 - [Hanyan Yin](https://yinhanyan.github.io/) (Renmin University of China)
 
-- [Tianjing Zeng](https://stcarmen.github.io/) (Alibaba Tongyi Lab)
+- [Tianjing Zeng](https://stcarmen.github.io/) (Alibaba)
 
 - [Jingsen Zhang](https://jingsenzhang.github.io/) (Renmin University of China)
 
 - [Peitian Zhang](https://www.namespace-pt.com/) (Renmin University of China)
 
-- [Yang Zhang](https://fengyuewuya.github.io/) (Renmin University of China)
+- [Yang Zhang](https://fengyuewuya.github.io/) (China National Institute of Standardization)
 
 - [Zeyu Zhang](https://zeyu-zhang.cn/) (Renmin University of China)
 
