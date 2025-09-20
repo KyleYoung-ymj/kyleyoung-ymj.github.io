@@ -253,6 +253,8 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - [“京东·求是未来学者”学生科研创新奖学金](https://v.ruc.edu.cn/me#/notice-detail/87387)，中国人民大学
 
+- 论文 "Revisiting Local Computation of PageRank: Simple and Optimal" 获优秀科研成果奖一等奖，中国人民大学
+
 - 优秀学生干部荣誉称号，中国人民大学
 
 - 社会工作与志愿服务骨干三等奖学金，中国人民大学
