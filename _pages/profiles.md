@@ -111,6 +111,8 @@ toc:
 
 - [Jiajun Li](https://llijiajun.github.io/github-io/) (Peking University)
 
+- [Jiongnan Liu](https://rucliujn.github.io/) (Renmin University of China)
+
 - [Yifan Lu](https://yifanlu0227.github.io/) (University of Toronto)
 
 - [Siru Ouyang](https://ozyyshr.github.io/) (University of Illinois Urbana-Champaign)
