@@ -273,7 +273,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - 北京市普通高等学校优秀毕业生，北京市教育委员会
 
-- 优秀共青团员，中国人民大学
+- 中国人民大学优秀共青团员，中国人民大学
 
 - 中国人民大学高瓴人工智能学院一等学业奖学金，中国人民大学高瓴人工智能学院
 
