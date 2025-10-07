@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-China National Scholarship
+China National Scholarship, 2019

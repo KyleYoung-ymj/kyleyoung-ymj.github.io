@@ -4,8 +4,7 @@
         {% assign services = site.services | reverse %}
         {% for item in services %}
           <tr>
-            <th scope="row" style="width: 10%">{{ item.date | date: '%Y' }}</th>
-            <td>
+            <td class="bullet-cell">
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% endif %}

@@ -4,8 +4,7 @@
         {% assign awards = site.awards | reverse %}
         {% for item in awards %}
           <tr>
-            <th scope="row" style="width: 10%">{{ item.date | date: '%Y' }}</th>
-            <td>
+            <td class="bullet-cell">
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% endif %}
@@ -15,3 +14,20 @@
       </table>
     </div>
 </div>
+
+<style>
+.bullet-cell {
+  position: relative;
+  padding-left: 2.5rem !important;
+}
+
+.bullet-cell::before {
+  content: "•";
+  position: absolute;
+  left: 1rem;
+  color: #1772d0;
+  font-size: 1.8em;
+  font-weight: bold;
+  line-height: 1;
+}
+</style>

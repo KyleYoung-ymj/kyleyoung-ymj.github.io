@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gold Medal in CCF Collegiate Computer Systems & Programming Contest (CCSP)
+Gold Medal in CCF Collegiate Computer Systems & Programming Contest (CCSP), 2021

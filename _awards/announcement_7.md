@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Outstanding Graduate Student of Beijing
+Outstanding Graduate Student of Beijing (for undergraduate), 2022
