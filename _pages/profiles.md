@@ -247,6 +247,12 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 #### 2025
 
+- 三好学生荣誉称号，中国人民大学
+
+- 优秀学生干部荣誉称号，中国人民大学
+
+- 优秀班团骨干奖学金，中国人民大学
+
 - [中国人民大学高瓴人工智能学院院长“瓴航”奖学金](http://ai.ruc.edu.cn/newslist/notice/20250312100.html)，中国人民大学高瓴人工智能学院
 
 #### 2024
