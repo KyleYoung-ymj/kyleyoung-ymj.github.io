@@ -225,6 +225,8 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ### 相关报道
 
+- [《高瓴人工智能学院师生论文首次被国际学术会议SODA录用》](http://ai.ruc.edu.cn/newslist/newsdetail/20251014100.html)，中国人民大学高瓴人工智能学院
+
 - [《审稿人直呼简洁，单点PageRank终极版！人大STOC论文让复杂度优化至「理论最优」》](https://mp.weixin.qq.com/s/rAtm1PcmlnMvVdfB3eTqEg)，新智元
 
 - [《我院魏哲巍教授团队在高水平学术期刊发表2篇综述》](http://ai.ruc.edu.cn//newslist/newsdetail/20240427007.html)，中国人民大学高瓴人工智能学院
