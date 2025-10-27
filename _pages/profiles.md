@@ -203,7 +203,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ### 经历
 
-- 国内学术会议参会：[NCTCS 2025](https://conf.ccf.org.cn/web/api/m1351543392185749504174227465515.action)、[CNCC 2024](https://ccf.org.cn/cncc2024)、[NCTCS 2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)、[CNCC 2023](https://ccf.org.cn/cncc2023)
+- 国内学术会议参会：[CNCC 2025](https://ccf.org.cn/cncc2025)、[NCTCS 2025](https://conf.ccf.org.cn/web/api/m1351543392185749504174227465515.action)、[CNCC 2024](https://ccf.org.cn/cncc2024)、[NCTCS 2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)、[CNCC 2023](https://ccf.org.cn/cncc2023)
 
 - 担任助教：2023 年春季学期中国人民大学信息学院本科生课程“程序设计实践”、2022 年春季学期中国人民大学高瓴人工智能学院本科生课程“算法设计与分析”、2021 年春季学期中国人民大学信息学院本科生课程“数据结构与算法II荣誉课程”
 
