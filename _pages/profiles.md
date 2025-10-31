@@ -225,7 +225,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ### 相关报道
 
-- [《STOC 2024 & SODA 2026 \| 有向图上单点PageRank计算的最优算法》](https://mp.weixin.qq.com/s/3AJQn7E-9m5NkB0xLi-Jcg?scene=1&click_id=19)，中国计算机学会理论计算机科学专委
+- [《STOC 2024 & SODA 2026 \| 有向图上单点PageRank计算的最优算法》](https://mp.weixin.qq.com/s/3AJQn7E-9m5NkB0xLi-Jcg)，中国计算机学会理论计算机科学专委
 
 - [《高瓴人工智能学院师生论文首次被国际学术会议SODA录用》](http://ai.ruc.edu.cn/newslist/newsdetail/20251014100.html)，中国人民大学高瓴人工智能学院
 
