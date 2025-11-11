@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-The arXiv version of my co-authored paper "Revisiting Local Computation of PageRank: Simple and Optimal" is now [available](https://arxiv.org/abs/2403.12648).
+The arXiv version of our paper "Revisiting Local Computation of PageRank: Simple and Optimal" is now [available](https://arxiv.org/abs/2403.12648).
 

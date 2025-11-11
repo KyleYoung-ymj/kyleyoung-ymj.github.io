@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: >
-  Authors are ordered alphabetically with equal contributions by default. For papers marked with "†", authors are ordered by contribution.
+  <strong>Authors are ordered alphabetically with equal contributions by default.</strong> For papers marked with "†", authors are ordered by contribution.
 nav: true
 nav_order: 2
 ---

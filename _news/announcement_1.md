@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper "Approximating Single-Source Personalized PageRank with Absolute Error Guarantees" has been accepted by [ICDT 2024](https://dastlab.github.io/edbticdt2024). :tada:
+One paper "Approximating Single-Source Personalized PageRank with Absolute Error Guarantees" has been accepted by [ICDT 2024](https://dastlab.github.io/edbticdt2024). :tada:
 

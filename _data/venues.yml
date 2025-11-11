@@ -5,6 +5,10 @@
   url: https://dastlab.github.io/edbticdt2024
   color: "#4a96f2"
 
+"ITCS 2026":
+  url: http://itcs-conf.org
+  color: "#4a96f2"
+
 "STOC 2024":
   url: http://acm-stoc.org/stoc2024
 
