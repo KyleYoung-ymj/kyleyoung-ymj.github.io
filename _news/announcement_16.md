@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper “On Solving Asymmetric Diagonally Dominant Linear Systems in Sublinear Time” has been accepted by [ITCS 2026](http://itcs-conf.org/). :tada: 
-
+Our paper "On Solving Asymmetric Diagonally Dominant Linear Systems in Sublinear Time" has been accepted by [ITCS 2026](http://itcs-conf.org/). :tada: 

@@ -6,5 +6,4 @@ related_posts: false
 
 ---
 
-One first-authored paper "Efficient Algorithms for Personalized PageRank Computation: A Survey" has been accepted by [TKDE](https://www.computer.org/csdl/journal/tk). :tada:
-
+My first-authored paper "Efficient Algorithms for Personalized PageRank Computation: A Survey" has been accepted by [TKDE](https://www.computer.org/csdl/journal/tk). :tada:
