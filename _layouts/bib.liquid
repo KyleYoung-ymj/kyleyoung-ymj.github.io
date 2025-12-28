@@ -235,9 +235,6 @@
       {% elsif entry.video %}
         <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
       {% endif %}
-      {% if entry.comments %}
-        <a href="{{ entry.comments }}" class="btn btn-sm z-depth-0" role="button">{{ entry.comments_text }}</a>
-      {% endif %}
       {% if entry.blog %}
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% endif %}
@@ -252,14 +249,18 @@
         {% endif %}
       {% endif %}
       {% if entry.slides %}
+        {% assign slides_button_text = entry.slides_text | default: "Slides" %}
         {% if entry.slides contains '://' %}
-          <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+          <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">{{ slides_button_text }}</a>
         {% else %}
-          <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+          <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">{{ slides_button_text }}</a>
         {% endif %}
       {% endif %}
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {% endif %}
+      {% if entry.comments %}
+        <a href="{{ entry.comments }}" class="btn btn-sm z-depth-0" role="button">{{ entry.comments_text }}</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}

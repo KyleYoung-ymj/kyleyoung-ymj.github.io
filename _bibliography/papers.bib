@@ -7,7 +7,15 @@
   booktitle = {Proceedings of the 17th Innovations in Theoretical Computer Science Conference, to appear},
   year = {2026},
   abbr = {ITCS 2026},
-  arxiv = {2509.13891}
+  arxiv = {2509.13891},
+  tldr = {We initiate a study of solving row/column diagonally dominant (RDD/CDD) linear systems in sublinear time, which includes estimating (Personalized) PageRank and effective resistance on graphs as special cases. We characterize the problem's mathematical structure via a novel quantity called the maximum \(p\)-norm gap, and develop a collection of algorithmic results by adapting techniques from local graph algorithms.},
+  abstract =
+  {
+    We initiate a study of solving a row/column diagonally dominant (RDD/CDD) linear system \(\mathbf{M}\boldsymbol{x} = \boldsymbol{b}\) in sublinear time, with the goal of estimating \(\boldsymbol{t}^{\top}\boldsymbol{x}^{\ast}\) for a given vector \(\boldsymbol{t} \in \mathbb{R}^n\) and a specific solution \(\boldsymbol{x}^{\ast}\). This setting naturally generalizes the study of sublinear-time solvers for symmetric diagonally dominant (SDD) systems [Andoni-Krauthgamer-Pogrow, ITCS 2019] to the asymmetric case, which has remained underexplored despite extensive work on nearly-linear-time solvers for RDD/CDD systems.<br>
+    Our first contributions are characterizations of the problem's mathematical structure. We express a solution \(\boldsymbol{x}^{\ast}\) via a Neumann series, prove its convergence, and upper bound the truncation error on this series through a novel quantity of \(\mathbf{M}\), termed the maximum \(p\)-norm gap. This quantity generalizes the spectral gap of symmetric matrices and captures how the structure of \(\mathbf{M}\) governs the problem's computational difficulty.<br>
+    For systems with bounded maximum \(p\)-norm gap, we develop a collection of algorithmic results for locally approximating \(\boldsymbol{t}^{\top}\boldsymbol{x}^{\ast}\) under various scenarios and error measures. We derive these results by adapting the techniques of random-walk sampling, local push, and their bidirectional combination, which have proved powerful for special cases of solving RDD/CDD systems, particularly estimating PageRank and effective resistance on graphs. Our general framework yields deeper insights, extended results, and improved complexity bounds for these problems. Notably, our perspective provides a unified understanding of Forward Push and Backward Push, two fundamental approaches for estimating random-walk probabilities on graphs.<br>
+    Our framework also inherits the hardness results for sublinear-time SDD solvers and local PageRank computation, establishing lower bounds on the maximum \(p\)-norm gap or the accuracy parameter. We hope that our work opens the door for further study into sublinear solvers, local graph algorithms, and directed spectral graph theory.
+  }
 }
 
 @inproceedings{thorup2026pagerank,
@@ -21,11 +29,17 @@
   year = {2026},
   abbr = {SODA 2026},
   arxiv = {2508.01257},
-  tldr = {For estimating single-node PageRank on directed graphs, if we parameterize the complexity by the maximum in-degree \(\Delta_{\mathrm{in}}\) of the graph, the results in our STOC 2024 paper are optimal only when \(\Delta_{\mathrm{in}} = \Omega\left(n^{\Omega(1)}\right)\). In this paper, we improve the upper bound to match the lower bound (up to polylog factors) for all regimes of \(\Delta_{\mathrm{in}}\). Our key technique is a bidirectional algorithm that employs a novel randomized local exploration method.}
+  tldr = {For estimating single-node PageRank on directed graphs, if we parameterize the complexity by the maximum in-degree \(\Delta_{\mathrm{in}}\) of the graph, the upper bound in our STOC 2024 paper is optimal only when \(\Delta_{\mathrm{in}} = \Omega\left(n^{\Omega(1)}\right)\). In this paper, we improve the upper bound to match the lower bound (up to polylog factors) for all regimes of \(\Delta_{\mathrm{in}}\). Our key technique is a bidirectional algorithm that employs a novel randomized local exploration method.},
+  abstract =
+  {
+    We study the computational complexity of locally estimating a node's PageRank centrality in a directed graph \(G\). For any node \(t\), its PageRank centrality \(\pi(t)\) is defined as the probability that a random walk in \(G\), starting from a uniformly chosen node, terminates at \(t\), where each step terminates with a constant probability \(\alpha \in (0,1)\).<br>
+    To obtain a multiplicative \(\big(1 \pm O(1)\big)\)-approximation of \(\pi(t)\) with probability \(\Omega(1)\), the previously best upper bound is \(O\left(n^{1/2}\min\left\{ \Delta_{\mathrm{in}}^{1/2},\ \Delta_{\mathrm{out}}^{1/2},\ m^{1/4} \right\}\right)\) from [Wang, Wei, Wen, Yang, STOC '24], where \(n\) and \(m\) denote the number of nodes and edges in \(G\), and \(\Delta_{\mathrm{in}}\) and \(\Delta_{\mathrm{out}}\) upper bound the in-degrees and out-degrees of \(G\), respectively. Using a refinement of the proof in the same paper, we establish a lower bound of \(\Omega\left(n^{1/2}\min\left\{ \Delta_{\mathrm{in}}^{1/2} \big/ n^{\gamma},\Delta_{\mathrm{out}}^{1/2} \big/ n^{\gamma},m^{1/4}\right\}\right)\), where \(\gamma = \frac{1}{2} \left(2\max\left\{\log_{1/(1-\alpha)}\Delta_{\mathrm{in}},1\right\}-1\right)^{-1}\). As \(\gamma\) only depends on \(\Delta_\mathrm{in}\) and \(n^{\gamma} = O(1)\) for \(\Delta_{\mathrm{in}} = \Omega\left(n^{\Omega(1)}\right)\), the known upper bound is tight if we only parameterize the complexity by \(n\), \(m\), and \(\Delta_{\mathrm{out}}\). However, there remains a gap of \(\Omega\left(n^{\gamma}\right)\) when considering the maximum in-degree \(\Delta_{\mathrm{in}}\), and this gap is large when \(\Delta_{\mathrm{in}}\) is small. In the extreme case where \(\Delta_{\mathrm{in}} \le 1/(1 - \alpha)\), we have \(\gamma = 1/2\), leading to a gap of \(\Omega\left(n^{1/2}\right)\) between the bounds \(O\left(n^{1/2}\right)\) and \(\Omega(1)\).<br>
+    In this paper, we present a new algorithm that achieves the above lower bound (up to logarithmic factors). The algorithm assumes that \(n\) and the bounds \(\Delta_{\mathrm{in}}\) and \(\Delta_{\mathrm{out}}\) are known in advance. Our key technique is a novel randomized backwards propagation process that only propagates selectively based on Monte Carlo estimated PageRank scores.
+  }
 }
 
 @article{yang2024efficient,
-  selected = true,
+  selected = false,
   author = {Mingji Yang and
             Hanzhi Wang and
             Zhewei Wei* and
@@ -79,6 +93,8 @@
   abbr = {STOC 2024},
   arxiv = {2403.12648},
   video = {https://www.youtube.com/watch?v=ipWgICjGfRU},
+  slides = {pre_STOC2024_Hanzhi.pptx},
+  slides_text = {Slides by Hanzhi},
   tldr = {We establish nearly-tight complexity upper and lower bounds on estimating PageRank contributions and single-node PageRank on directed graphs. Our techniques and analyses are surprisingly simple, where the upper bounds are derived by revisiting classic algorithms.},
   abstract =
   {
@@ -105,7 +121,7 @@
 }
 
 @inproceedings{wei2024approximating,
-  selected = true,
+  selected = false,
   author = {Zhewei Wei* and
             Ji-Rong Wen and
             Mingji Yang},
