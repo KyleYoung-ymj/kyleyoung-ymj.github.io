@@ -89,7 +89,7 @@ toc:
 
 - [Sunhao Dai](https://kid-22.github.io/) (Renmin University of China)
 
-- [Shiyuan Deng](https://scholar.google.com/citations?user=expww2YAAAAJ&hl=zh-TW) (Huawei)
+<!-- - [Shiyuan Deng](https://scholar.google.com/citations?user=expww2YAAAAJ&hl=zh-TW) (Huawei) -->
 
 - [Haipeng Ding](https://dinghaipeng.com/homepage) (Renmin University of China)
 
@@ -109,7 +109,7 @@ toc:
 
 - [Runlin Lei](https://leirunlin.github.io/) (Renmin University of China)
 
-- [Jiajun Li](https://llijiajun.github.io/github-io/) (Peking University)
+<!-- - [Jiajun Li](https://llijiajun.github.io/github-io/) (Peking University) -->
 
 - [Jiongnan Liu](https://rucliujn.github.io/) (Renmin University of China)
 
@@ -119,13 +119,13 @@ toc:
 
 - [Jie Peng](https://lucas-pj.github.io/) (Renmin University of China)
 
-- [Zihua Si](https://ethan00si.github.io/) (TikTok)
+<!-- - [Zihua Si](https://ethan00si.github.io/) (TikTok) -->
 
 - [Zhongxiang Sun](https://jeryi-sun.github.io/) (Renmin University of China)
 
 - [Tianyi Tang](https://steventang1998.github.io/) (Alibaba)
 
-- [Hanzhi Wang](https://wanghzccls.github.io/) (University of Copenhagen)
+- [Hanzhi Wang](https://wanghzccls.github.io/) (The University of Melbourne)
 
 - [Lei Wang](https://paitesanshi.github.io/) (Renmin University of China)
 
@@ -151,7 +151,7 @@ toc:
 
 - [Peitian Zhang](https://www.namespace-pt.com/) (Bytedance)
 
-- [Yang Zhang](https://fengyuewuya.github.io/) (China National Institute of Standardization)
+<!-- - [Yang Zhang](https://fengyuewuya.github.io/) (China National Institute of Standardization) -->
 
 - [Zeyu Zhang](https://zeyu-zhang.cn/) (Renmin University of China)
 
