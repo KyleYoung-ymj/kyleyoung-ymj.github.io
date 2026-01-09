@@ -26,7 +26,8 @@
             Zhewei Wei and
             Mingji Yang},
   title = {PageRank Centrality in Directed Graphs with Bounded In-Degree},
-  booktitle = {Proceedings of the 2026 ACM-SIAM Symposium on Discrete Algorithms, to appear},
+  booktitle = {Proceedings of the 2026 ACM-SIAM Symposium on Discrete Algorithms},
+  month = {January},
   year = {2026},
   abbr = {SODA 2026},
   arxiv = {2508.01257},
@@ -36,7 +37,8 @@
     We study the computational complexity of locally estimating a node's PageRank centrality in a directed graph \(G\). For any node \(t\), its PageRank centrality \(\pi(t)\) is defined as the probability that a random walk in \(G\), starting from a uniformly chosen node, terminates at \(t\), where each step terminates with a constant probability \(\alpha \in (0,1)\).<br>
     To obtain a multiplicative \(\big(1 \pm O(1)\big)\)-approximation of \(\pi(t)\) with probability \(\Omega(1)\), the previously best upper bound is \(O\left(n^{1/2}\min\left\{ \Delta_{\mathrm{in}}^{1/2},\ \Delta_{\mathrm{out}}^{1/2},\ m^{1/4} \right\}\right)\) from [Wang, Wei, Wen, Yang, STOC '24], where \(n\) and \(m\) denote the number of nodes and edges in \(G\), and \(\Delta_{\mathrm{in}}\) and \(\Delta_{\mathrm{out}}\) upper bound the in-degrees and out-degrees of \(G\), respectively. Using a refinement of the proof in the same paper, we establish a lower bound of \(\Omega\left(n^{1/2}\min\left\{ \Delta_{\mathrm{in}}^{1/2} \big/ n^{\gamma},\Delta_{\mathrm{out}}^{1/2} \big/ n^{\gamma},m^{1/4}\right\}\right)\), where \(\gamma = \frac{1}{2} \left(2\max\left\{\log_{1/(1-\alpha)}\Delta_{\mathrm{in}},1\right\}-1\right)^{-1}\). As \(\gamma\) only depends on \(\Delta_\mathrm{in}\) and \(n^{\gamma} = O(1)\) for \(\Delta_{\mathrm{in}} = \Omega\left(n^{\Omega(1)}\right)\), the known upper bound is tight if we only parameterize the complexity by \(n\), \(m\), and \(\Delta_{\mathrm{out}}\). However, there remains a gap of \(\Omega\left(n^{\gamma}\right)\) when considering the maximum in-degree \(\Delta_{\mathrm{in}}\), and this gap is large when \(\Delta_{\mathrm{in}}\) is small. In the extreme case where \(\Delta_{\mathrm{in}} \le 1/(1 - \alpha)\), we have \(\gamma = 1/2\), leading to a gap of \(\Omega\left(n^{1/2}\right)\) between the bounds \(O\left(n^{1/2}\right)\) and \(\Omega(1)\).<br>
     In this paper, we present a new algorithm that achieves the above lower bound (up to logarithmic factors). The algorithm assumes that \(n\) and the bounds \(\Delta_{\mathrm{in}}\) and \(\Delta_{\mathrm{out}}\) are known in advance. Our key technique is a novel randomized backwards propagation process that only propagates selectively based on Monte Carlo estimated PageRank scores.
-  }
+  },
+  doi = {10.1137/1.9781611978971.140}
 }
 
 @article{yang2024efficient,

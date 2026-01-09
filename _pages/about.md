@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Homepage
+title: About
 subtitle: >
   <a href="https://en.ruc.edu.cn">Renmin University of China</a>, Beijing, China<br>
   Email: kyleyoung AT ruc.edu.cn
