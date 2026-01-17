@@ -53,9 +53,9 @@ toc:
 
 - [Eigenvalues and Polynomials](https://cs.uwaterloo.ca/~lapchi/cs860/index.html) by Lap Chi Lau, University of Waterloo, 2022
 
-- [Spectral Graph Theory](https://cs.uwaterloo.ca/~lapchi/cs860-2019/index.html) by Lap Chi Lau, University of Waterloo, 2019 ([2015 version](https://cs.uwaterloo.ca/~lapchi/cs798-2015/index.html))
+<!-- - [Spectral Graph Theory](https://cs.uwaterloo.ca/~lapchi/cs860-2019/index.html) by Lap Chi Lau, University of Waterloo, 2019 ([2015 version](https://cs.uwaterloo.ca/~lapchi/cs798-2015/index.html))
 
-- [Spectral Algorithms](https://appsrv.cse.cuhk.edu.hk/~chi/csc5160/index.html) by Lap Chi Lau, The Chinese University of Hong Kong, 2012
+- [Spectral Algorithms](https://appsrv.cse.cuhk.edu.hk/~chi/csc5160/index.html) by Lap Chi Lau, The Chinese University of Hong Kong, 2012 -->
 
 - [Modern Spectral Graph Theory](https://courses.cs.washington.edu/courses/cse599s/22wi/) by Shayan Oveis Gharan, University of Washington, 2022
 
@@ -177,7 +177,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ## My Experiences
 
-- Attended international conferences: [STOC 2025](https://acm-stoc.org/stoc2025/), [EDBT/ICDT 2024](https://dastlab.github.io/edbticdt2024/)
+- Attended international conferences: [SODA 2026](https://www.siam.org/conferences-events/siam-conferences/soda26/), [STOC 2025](https://acm-stoc.org/stoc2025/), [EDBT/ICDT 2024](https://dastlab.github.io/edbticdt2024/)
 
 - From 2020 to 2022, I was severely afflicted by [Ménière's disease](https://en.wikipedia.org/wiki/M%C3%A9ni%C3%A8re%27s_disease). During those years, I frequently suffered from vertigo, tinnitus, and hearing loss, spending dozens of days in the transfusion room. Those nightmarish experiences forced me to slow down, reevaluate my lifestyle, and reflect deeply on my attitude toward life. Fortunately, after several years of active treatment, I have recovered from the disease, although it has left some lasting impact on my hearing.
 

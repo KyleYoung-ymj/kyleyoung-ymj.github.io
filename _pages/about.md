@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am currently a 4th-year Ph.D. candidate at [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/en), Renmin University of China, where I am fortunate to be supervised by [Prof. Ji-Rong Wen](https://gsai.ruc.edu.cn/english/jrwen/) and [Prof. Zhewei Wei](https://weizhewei.com/).
-Before my graduate studies, I received my B.E. degree in Computer Science and Technology at Turing Class, [School of Information](http://info.ruc.edu.cn/Home/index.htm), Renmin University of China in June 2022.
+In June 2022, I received my B.E. degree in Computer Science and Technology at Turing Class, [School of Information](http://info.ruc.edu.cn/Home/index.htm), Renmin University of China.
 
 During the spring of 2025, I was visiting the [Institute for Theoretical Computer Science](https://itcs.sufe.edu.cn/main.htm), [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/), working under the supervision of [Prof. Tsz Chiu Kwok](https://itcs.sufe.edu.cn/54/20/c10495a152608/page.htm).
 
