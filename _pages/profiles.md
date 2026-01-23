@@ -225,6 +225,8 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ### 相关报道
 
+- [《人大“推理高手”，破解算法难题》](https://mp.weixin.qq.com/s/vqxVFUdSEgPup19M3SMsFQ)，中国人民大学
+
 - [《人大高瓴人工智能学院师生论文首次被国际学术会议ITCS录用》](https://mp.weixin.qq.com/s/OxKQ5-tQZQjGIKNmZLrsVw)，中国人民大学高瓴人工智能学院
 
 - [《STOC 2024 & SODA 2026 \| 有向图上单点PageRank计算的最优算法》](https://mp.weixin.qq.com/s/3AJQn7E-9m5NkB0xLi-Jcg)，中国计算机学会理论计算机科学专委
