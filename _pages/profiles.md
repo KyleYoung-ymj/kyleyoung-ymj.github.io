@@ -97,7 +97,7 @@ toc:
 
 - [Jinjia Feng](https://xkxxfyf.github.io/) (Renmin University of China)
 
-- [Tingchen Fu](https://tingchenfu.github.io/) (Renmin University of China)
+- [Tingchen Fu](https://tingchenfu.github.io/) (University of Oxford)
 
 - [Yuhe Guo](https://yuziguo.github.io/) (Renmin University of China)
 
@@ -131,7 +131,7 @@ toc:
 
 - [Ru Wang](https://appsrv.cse.cuhk.edu.hk/~rwang21/) (The Chinese University of Hong Kong)
 
-- [Jialiang Xu](https://liamjxu.github.io/) (Stanford University)
+- [Jialiang Xu](https://liamjxu.github.io/) (Amazon)
 
 - [Wenkai Yang](https://keven980716.github.io/) (Renmin University of China)
 
