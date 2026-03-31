@@ -27,5 +27,5 @@ During the spring of 2025, I was visiting the [Institute for Theoretical Compute
 
 I am broadly interested in theoretical computer science, with a focus on **sublinear graph algorithms** and **spectral graph theory**.
 My current work centers on efficient algorithms for estimating (Personalized) PageRank and their connections to solving linear systems and local graph clustering.
-I am also expanding my research to the [Laplacian Paradigm](https://link.springer.com/chapter/10.1007/978-3-642-13562-0_2) [(2.0)](https://sachdevasushant.github.io/laplacian2.0/), streaming algorithms, and property testing.
+I am also expanding my research to the [Laplacian Paradigm](https://link.springer.com/chapter/10.1007/978-3-642-13562-0_2) [(2.0)](https://sachdevasushant.github.io/laplacian2.0/), spectral sparsification, and streaming algorithms.
 My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3.

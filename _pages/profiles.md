@@ -169,7 +169,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - :books: :tv: I enjoy reading *books* and watching *movies*, TV shows, documentaries, etc. on a variety of topics. Currently I find detective novels by [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie) and movies by [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan) particularly appealing.
 
-- :video_game: :computer: I love playing *video games*, and have been a long-time fan of [Nintendo](https://www.nintendo.com/us/), especially a big fan of the [Super Mario](https://mario.nintendo.com/), [The Legend of Zelda](https://zelda.nintendo.com/), and the [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhythm_Heaven_(series)) series. I also like the [Ace Attorney](https://www.ace-attorney.com/) series. Additionally, I am an amateur player of modern Tetris on [Puyo Puyo Tetris](https://puyo.sega.com/tetris/) and [TETR.IO](https://tetr.io/) ([my profile](https://ch.tetr.io/u/kyleyoung)), and also of Minesweeper on [Minesweeper Online](https://minesweeper.online/) ([my profile](https://minesweeper.online/player/13649905)).
+- :video_game: :computer: I love playing *video games*, and have been a long-time fan of [Nintendo](https://www.nintendo.com/us/), especially a big fan of the [Super Mario](https://mario.nintendo.com/), [The Legend of Zelda](https://zelda.nintendo.com/), and the [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhythm_Heaven_(series)) series. I also like the [Ace Attorney](https://www.ace-attorney.com/) series. Additionally, I am an amateur player of modern Tetris on [Puyo Puyo Tetris](https://puyo.sega.com/tetris/) and [TETR.IO](https://tetr.io/) ([my profile](https://ch.tetr.io/u/kyleyoung)), and also of Minesweeper on [Minesweeper Online](https://minesweeper.online/) ([my profile](https://minesweeper.online/player/13649905)). I am happy to share my Nintendo friend code if you want to add me.
 
 - :musical_note: :musical_keyboard: I enjoy instrumental music, especially piano & violin pieces and *instrumental Jazz Hip-Hop*. My favorite composers include [Otokaze](https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj) and [DJ Okawari](http://www.djokawari.com/).
 
@@ -199,7 +199,7 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - 社交平台账号：[知乎](https://www.zhihu.com/people/yang-ming-ji-35)、[小红书](https://www.xiaohongshu.com/user/profile/65afbf03000000001a002cf1)、[豆瓣](https://www.douban.com/people/216349917/?_i=3972805oxKAo__)、[Bilibili](https://space.bilibili.com/7756068?spm_id_from=333.1007.0.0)
 
-- 我现在使用豆瓣来进行日常的书影音记录。
+- 我现在使用豆瓣来进行日常书影音记录。
 
 ### 经历
 
