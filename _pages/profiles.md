@@ -49,17 +49,21 @@ toc:
 
 ## Useful Courses
 
-- [TCS Toolkit](https://www.diderot.one/courses/28) by Ryan O'Donnell, Carnegie Mellon University, 2020 ([videos](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) and [previous lecture notes](https://www.cs.cmu.edu/~odonnell/toolkit13/))
+- [Algorithm Design and Analysis](https://tcs.nju.edu.cn/shili/courses/2025spring-algo/) by Shi Li, Nanjing University, 2025
 
-- [Eigenvalues and Polynomials](https://cs.uwaterloo.ca/~lapchi/cs860/index.html) by Lap Chi Lau, University of Waterloo, 2022
+- [Advanced Algorithms](https://tcs.nju.edu.cn/wiki/index.php?title=%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2025)) by Yitong Yin, Jingcheng Liu, and Shi Li, Nanjing University, 2025
+
+- [TCS Toolkit](https://www.csd.cmu.edu/course/15751/s24) by Ryan O'Donnell, Carnegie Mellon University, 2020 ([videos](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) and [previous lecture notes](https://www.cs.cmu.edu/~odonnell/toolkit13/))
+
+- [Graph Partitioning, Expanders and Spectral Methods](https://lucatrevisan.github.io/books/expanders-2016.pdf) by Luca Trevisan, U.C. Berkeley, 2016
+
+- [Eigenvalues and Polynomials](https://cs.uwaterloo.ca/~lapchi/cs860-2022/) by Lap Chi Lau, University of Waterloo, 2022
 
 <!-- - [Spectral Graph Theory](https://cs.uwaterloo.ca/~lapchi/cs860-2019/index.html) by Lap Chi Lau, University of Waterloo, 2019 ([2015 version](https://cs.uwaterloo.ca/~lapchi/cs798-2015/index.html))
 
 - [Spectral Algorithms](https://appsrv.cse.cuhk.edu.hk/~chi/csc5160/index.html) by Lap Chi Lau, The Chinese University of Hong Kong, 2012 -->
 
 - [Modern Spectral Graph Theory](https://courses.cs.washington.edu/courses/cse599s/22wi/) by Shayan Oveis Gharan, University of Washington, 2022
-
-- [Graph Partitioning, Expanders and Spectral Methods](https://lucatrevisan.github.io/books/expanders-2016.pdf) by Luca Trevisan, U.C. Berkeley, 2016
 
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown, YouTube
 
