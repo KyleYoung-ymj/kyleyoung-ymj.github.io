@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /misc/
 title: Misc
-description: This page contains links to some valuable online materials, as well as information about my friends, hobbies, experiences, and musings.
+description: This page contains links to some valuable online materials, as well as information about my friends, hobbies, and experiences.
 nav: true
 nav_order: 4
 toc:
@@ -53,7 +53,7 @@ toc:
 
 - [Advanced Algorithms](https://tcs.nju.edu.cn/wiki/index.php?title=%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2025)) by Yitong Yin, Jingcheng Liu, and Shi Li, Nanjing University, 2025
 
-- [TCS Toolkit](https://www.csd.cmu.edu/course/15751/s24) by Ryan O'Donnell, Carnegie Mellon University, 2020 ([videos](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) and [previous lecture notes](https://www.cs.cmu.edu/~odonnell/toolkit13/))
+- [CS Theory Toolkit](https://www.csd.cmu.edu/course/15751/s24) by Ryan O'Donnell, Carnegie Mellon University, 2020 ([videos](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) and [previous lecture notes](https://www.cs.cmu.edu/~odonnell/toolkit13/))
 
 - [Graph Partitioning, Expanders and Spectral Methods](https://lucatrevisan.github.io/books/expanders-2016.pdf) by Luca Trevisan, U.C. Berkeley, 2016
 
