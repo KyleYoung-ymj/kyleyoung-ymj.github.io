@@ -171,13 +171,13 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 ## My Hobbies
 
-- :books: :tv: I enjoy reading *books* and watching *movies*, TV shows, documentaries, etc. on a variety of topics. Currently I find detective novels by [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie) and movies by [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan) particularly appealing.
+- :books: :tv: I enjoy reading *books* and watching *movies*. I currently find [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)'s detective novels and [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan)'s movies particularly appealing. You can see some of my English reading on [Goodreads](https://www.goodreads.com/user/show/201082655-kyle-young).
 
 - :video_game: :computer: I love playing *video games*, and have been a long-time fan of [Nintendo](https://www.nintendo.com/us/), especially a big fan of the [Super Mario](https://mario.nintendo.com/), [The Legend of Zelda](https://zelda.nintendo.com/), and the [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhythm_Heaven_(series)) series. I also like the [Ace Attorney](https://www.ace-attorney.com/) series. Additionally, I am an amateur player of modern Tetris on [Puyo Puyo Tetris](https://puyo.sega.com/tetris/) and [TETR.IO](https://tetr.io/) ([my profile](https://ch.tetr.io/u/kyleyoung)), and also of Minesweeper on [Minesweeper Online](https://minesweeper.online/) ([my profile](https://minesweeper.online/player/13649905)). I am happy to share my Nintendo friend code if you want to add me.
 
 - :musical_note: :musical_keyboard: I enjoy instrumental music, especially piano & violin pieces and *instrumental Jazz Hip-Hop*. My favorite composers include [Otokaze](https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj) and [DJ Okawari](http://www.djokawari.com/).
 
-- :bird: :mountain: Fascinated by the beauty and diversity of birds, I formally started *birding* in early 2026. I enjoy identifying new species and maintaining my life list, currently in Singapore ([my eBird profile](https://ebird.org/profile/ODgxMjkxMg)).
+- :bird: :mountain: Fascinated by the beauty and diversity of birds, I formally started *birding* in early 2026. I enjoy identifying new species and maintaining my life list, currently in Singapore. You can find me on [eBird](https://ebird.org/profile/ODgxMjkxMg) and [iNaturalist](https://www.inaturalist.org/people/kyleyoung_ymj).
 
 ## My Experiences
 
@@ -208,6 +208,8 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 ### 经历
 
 - 国内学术会议参会：[CNCC 2025](https://ccf.org.cn/cncc2025)、[NCTCS 2025](https://conf.ccf.org.cn/web/api/m1351543392185749504174227465515.action)、[CNCC 2024](https://ccf.org.cn/cncc2024)、[NCTCS 2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)、[CNCC 2023](https://ccf.org.cn/cncc2023)
+
+- 专利授权：魏哲巍、杨铭基、王涵之、文继荣，《一种基于局部搜索的网页重要性评估方法》，ZL202410284633.3（2026 年授权）
 
 - 担任助教：2023 年春季学期中国人民大学信息学院本科生课程“程序设计实践”、2022 年春季学期中国人民大学高瓴人工智能学院本科生课程“算法设计与分析”、2021 年春季学期中国人民大学信息学院本科生课程“数据结构与算法II荣誉课程”
 
