@@ -203,9 +203,15 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 
 - 社交平台账号：[知乎](https://www.zhihu.com/people/yang-ming-ji-35)、[小红书](https://www.xiaohongshu.com/user/profile/65afbf03000000001a002cf1)、[豆瓣](https://www.douban.com/people/216349917/?_i=3972805oxKAo__)、[Bilibili](https://space.bilibili.com/7756068?spm_id_from=333.1007.0.0)
 
-- 我现在使用豆瓣来进行日常书影音记录。
+- 我现在使用豆瓣进行日常的书影音记录，欢迎关注。
 
 ### 经历
+
+- 国内学术会议参会
+  - NCTCS [2025](https://conf.ccf.org.cn/web/api/m1351543392185749504174227465515.action)、[2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)
+  - CNCC [2025](https://ccf.org.cn/cncc2025)、[2024](https://ccf.org.cn/cncc2024)、[2023](https://ccf.org.cn/cncc2023)
+  - [ITCS Workshop 2025](https://itcs-sufe.github.io/ITCS-Workshop2025/)
+  - [Shanghai Theory Day 2025](https://mp.weixin.qq.com/s/ZkOARbj5qdmI_Lq-Eoov3w)
 
 - 国内学术会议参会：[CNCC 2025](https://ccf.org.cn/cncc2025)、[NCTCS 2025](https://conf.ccf.org.cn/web/api/m1351543392185749504174227465515.action)、[CNCC 2024](https://ccf.org.cn/cncc2024)、[NCTCS 2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)、[CNCC 2023](https://ccf.org.cn/cncc2023)
 
