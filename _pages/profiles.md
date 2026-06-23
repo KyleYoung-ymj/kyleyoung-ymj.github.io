@@ -208,9 +208,9 @@ I apologize if you are my friend and I have inadvertently missed you on this lis
 ### 经历
 
 - 国内学术会议参会
-  - NCTCS [2025](https://conf.ccf.org.cn/web/api/m1351543392185749504174227465515.action)、[2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)
-  - CNCC [2025](https://ccf.org.cn/cncc2025)、[2024](https://ccf.org.cn/cncc2024)、[2023](https://ccf.org.cn/cncc2023)
-  - [ITCS Workshop 2025](https://itcs-sufe.github.io/ITCS-Workshop2025/)
+  - NCTCS [2025](https://conf.ccf.org.cn/web/api/m1351543392185749504174227465515.action), [2024](https://conf.ccf.org.cn/web/api/m1220009735990939648171091458774.action)
+  - CNCC [2025](https://ccf.org.cn/cncc2025), [2024](https://ccf.org.cn/cncc2024), [2023](https://ccf.org.cn/cncc2023)
+  - ITCS Workshop [2026](https://itcs-sufe.github.io/ITCS-Workshop2026/), [2025](https://itcs-sufe.github.io/ITCS-Workshop2025/)
   - [Shanghai Theory Day 2025](https://mp.weixin.qq.com/s/ZkOARbj5qdmI_Lq-Eoov3w)
 
 - 专利授权：魏哲巍、杨铭基、王涵之、文继荣，《一种基于局部搜索的网页重要性评估方法》，ZL202410284633.3（2026 年授权）
