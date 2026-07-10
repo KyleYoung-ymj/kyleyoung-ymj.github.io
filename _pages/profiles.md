@@ -17,7 +17,7 @@ toc:
 
 - *[Concrete Mathematics](https://www-cs-faculty.stanford.edu/~knuth/gkp.html)* by Ronald L. Graham, Donald E. Knuth, and Oren Patashnik
 
-- *[Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)* and *[Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)* by Gilbert Strang
+<!-- - *[Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)* and *[Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)* by Gilbert Strang -->
 
 - *[Linear Algebra Done Right](https://linear.axler.net/)* by Sheldon Axler
 
@@ -75,13 +75,13 @@ toc:
 
 - [Awesome Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
-- [Property Testing Review](https://ptreview.sublinear.info/)
-
-- [List of Open Problems in Sublinear Algorithms](https://sublinear.info/index.php?title=Main_Page)
+- [Useful Inequalities](https://www.lkozma.net/inequalities_cheat_sheet/)
 
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 
-- [Useful Inequalities](https://www.lkozma.net/inequalities_cheat_sheet/)
+- [Property Testing Review](https://ptreview.sublinear.info/)
+
+- [List of Open Problems in Sublinear Algorithms](https://sublinear.info/index.php?title=Main_Page)
 
 - [Laplacian Linear Equations, Graph Sparsification, Local Clustering, Low-Stretch Trees, etc.](https://sites.google.com/a/yale.edu/laplacian/)
 
@@ -89,79 +89,39 @@ toc:
 
 ## My Friends
 
-- [Guanyu Cui](https://guanyucui.github.io/) (Renmin University of China)
-
-- [Sunhao Dai](https://kid-22.github.io/) (Renmin University of China)
+- [Guanyu Cui](https://guanyucui.github.io/), [Sunhao Dai](https://kid-22.github.io/), [Haipeng Ding](https://dinghaipeng.com/homepage), [Guanting Dong](https://dongguanting.github.io/), [Jinjia Feng](https://xkxxfyf.github.io/), [Yuhe Guo](https://yuziguo.github.io/), [Zhaoheng Huang](https://waldenruc.notion.site/), [Runlin Lei](https://leirunlin.github.io/), [Jiongnan Liu](https://rucliujn.github.io/), [Jie Peng](https://lucas-pj.github.io/), [Zhongxiang Sun](https://jeryi-sun.github.io/), [Lei Wang](https://paitesanshi.github.io/), [Wenkai Yang](https://keven980716.github.io/), [Zequn Yang](https://bjlfzs.github.io/), [Wei Yao](https://yw101004244.github.io/), [Lu Yi](https://luyi256.github.io/), [Hanyan Yin](https://yinhanyan.github.io/), [Jingsen Zhang](https://jingsenzhang.github.io/), [Zeyu Zhang](https://zeyu-zhang.cn/), [Yanping Zheng](https://zheng-yp.github.io/), [Gengmo Zhou](https://zhougengmo.github.io/) (Renmin University of China)
 
 <!-- - [Shiyuan Deng](https://scholar.google.com/citations?user=expww2YAAAAJ&hl=zh-TW) (Huawei) -->
 
-- [Haipeng Ding](https://dinghaipeng.com/homepage) (Renmin University of China)
-
-- [Guanting Dong](https://dongguanting.github.io/) (Renmin University of China)
-
-- [Jinjia Feng](https://xkxxfyf.github.io/) (Renmin University of China)
-
 - [Tingchen Fu](https://tingchenfu.github.io/) (University of Oxford)
-
-- [Yuhe Guo](https://yuziguo.github.io/) (Renmin University of China)
 
 - [Mingguo He](https://ivam-he.github.io/) (National University of Singapore)
 
 - [Yupeng Hou](https://yupenghou.com/) (University of California San Diego)
 
-- [Zhaoheng Huang](https://waldenruc.notion.site/) (Renmin University of China)
-
-- [Runlin Lei](https://leirunlin.github.io/) (Renmin University of China)
-
 <!-- - [Jiajun Li](https://llijiajun.github.io/github-io/) (Peking University) -->
-
-- [Jiongnan Liu](https://rucliujn.github.io/) (Renmin University of China)
 
 - [Yifan Lu](https://yifanlu0227.github.io/) (University of Toronto)
 
 - [Siru Ouyang](https://ozyyshr.github.io/) (University of Illinois Urbana-Champaign)
 
-- [Jie Peng](https://lucas-pj.github.io/) (Renmin University of China)
-
 <!-- - [Zihua Si](https://ethan00si.github.io/) (TikTok) -->
-
-- [Zhongxiang Sun](https://jeryi-sun.github.io/) (Renmin University of China)
 
 - [Tianyi Tang](https://steventang1998.github.io/) (Alibaba)
 
 - [Hanzhi Wang](https://wanghzccls.github.io/) (The University of Melbourne)
 
-- [Lei Wang](https://paitesanshi.github.io/) (Renmin University of China)
-
 - [Ru Wang](https://appsrv.cse.cuhk.edu.hk/~rwang21/) (The Chinese University of Hong Kong)
 
-- [Jialiang Xu](https://liamjxu.github.io/) (Amazon)
-
-- [Wenkai Yang](https://keven980716.github.io/) (Renmin University of China)
-
-- [Zequn Yang](https://bjlfzs.github.io/) (Renmin University of China)
-
-- [Wei Yao](https://yw101004244.github.io/) (Renmin University of China)
+- [Jialiang Xu](https://liamjxu.github.io/) (Google Cloud AI)
 
 - [Qi Ye](https://scholar.google.com/citations?user=mTyAkCAAAAAJ&hl=en&oi=sra) (Tsinghua University)
 
-- [Lu Yi](https://luyi256.github.io/) (Renmin University of China)
-
-- [Hanyan Yin](https://yinhanyan.github.io/) (Renmin University of China)
-
 - [Tianjing Zeng](https://stcarmen.github.io/) (Alibaba)
-
-- [Jingsen Zhang](https://jingsenzhang.github.io/) (Renmin University of China)
 
 - [Peitian Zhang](https://www.namespace-pt.com/) (Bytedance)
 
 <!-- - [Yang Zhang](https://fengyuewuya.github.io/) (China National Institute of Standardization) -->
-
-- [Zeyu Zhang](https://zeyu-zhang.cn/) (Renmin University of China)
-
-- [Yanping Zheng](https://zheng-yp.github.io/) (Renmin University of China)
-
-- [Gengmo Zhou](https://zhougengmo.github.io/) (Renmin University of China)
 
 The list is in alphabetic order.
 
